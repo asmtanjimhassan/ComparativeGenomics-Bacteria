@@ -2,34 +2,32 @@
  The purpose of this repo is to provide scripts that one can quickly use to perform comparative analysis of bacterial genomes.
 
  #################  Comparative-Analysis-of-Bacterial-genomes  #################
- 
- Bioinformatics analysis can be challenging especially for new entrants. The purpose of this repo is to provide scripts that one can quickly use to perform comparative analysis of bacterial genomes. The scripts have been designed to automate majority of tasks so that beginners can get their hands dirty without having to struggle to assemble and use the analysis tools
+Bioinformatics analysis can be challenging especially for new entrants. The purpose of this repo is to provide scripts that one can quickly use to perform comparative analysis of bacterial genomes. The scripts have been designed to automate majority of tasks so that beginners can get their hands dirty without having to struggle to assemble and use the analysis tools
+
+#################
 
 1. Add channels
-   
-   conda config --add channels conda-forge
-   
-   conda config --add channels bioconda
-   
-   conda config --add channels defaults
+conda config --add channels conda-forge
+conda config --add channels bioconda
+conda config --add channels defaults
 
-3. Download the Analysis pipeline
+2. Download the Analysis pipeline
 git clone https://github.com/vappiah/bacterial-genomics-tutorial.git
 
-4. Create conda environment.Packages are listed in the environment.yaml file.
+3. Create conda environment.Packages are listed in the environment.yaml file.
 conda env create -f environment.yaml
 
-5. Activate the analysis environment
+4. Activate the analysis environment
 conda activate bacterialgenomics
 
-6. Install python packages using pip
+5. Install python packages using pip
 pip install -r pip-requirements.txt
 
-7. Download the polishing tool pilon
+6. Download the polishing tool pilon
 mkdir apps
 wget https://github.com/broadinstitute/pilon/releases/download/v1.23/pilon-1.23.jar -O apps/pilon.jar
 
-8. Add permission to all scripts
+7. Add permission to all scripts
 chmod +x *.{py,sh,pl}
 
 ################ TIME FOR ANALYSIS ###################
