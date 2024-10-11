@@ -1,0 +1,32 @@
+NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = -1166) between 62177 1 and 190283 63345
+Extensive misassembly (relocation, inconsistency = 2840614) between 190283 63345 and 193033 192430
+Extensive misassembly (relocation, inconsistency = -2846508) between 193033 192430 and 282474 196177
+Extensive misassembly (relocation, inconsistency = 2281) between 282474 196177 and 300721 282475
+NODE_2_length_245239_cov_129.518819_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = -2029) between 219272 56 and 245239 221301
+NODE_3_length_226620_cov_132.558643_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = 2146) between 183002 1 and 210012 183003
+Extensive misassembly (relocation, inconsistency = 1337) between 210012 183003 and 224162 210013
+NODE_5_length_205495_cov_133.381231_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = -1902) between 43436 1 and 205495 45339
+NODE_7_length_195981_cov_133.353036_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = -2406) between 141924 103816 and 195981 144328
+NODE_11_length_150954_cov_132.636426_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = -9624) between 2030 1 and 114359 11627
+Extensive misassembly (relocation, inconsistency = 1312) between 114359 11627 and 150954 114360
+NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = -12732) between 1 58735 and 71468 124511
+Extensive misassembly (relocation, inconsistency = 2153) between 71468 124511 and 124512 130793
+NODE_15_length_125327_cov_122.182156_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = 4381) between 53432 1 and 62059 53433
+Extensive misassembly (relocation, inconsistency = -3007) between 62059 53433 and 125327 65064
+NODE_20_length_90084_cov_130.623766_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = 2897) between 1 25749 and 25750 90084
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = 1255091) between 883 8 and 11301 11908
+Extensive misassembly (relocation, inconsistency = 1195471) between 11301 11908 and 82130 11909
+NODE_27_length_64597_cov_128.084596_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = -12719) between 41037 1 and 64597 53757
+NODE_37_length_17587_cov_131.199806_pilon_pilon_pilon_pilon
+Extensive misassembly (relocation, inconsistency = 2058636) between 9326 1 and 9327 17587

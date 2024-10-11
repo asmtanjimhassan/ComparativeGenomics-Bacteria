@@ -1,0 +1,7 @@
+genome,secondary_cluster,threshold,cluster_method,comparison_algorithm,primary_cluster
+H37Rv.fasta,1_1,0.050000000000000044,average,fastANI,1
+target.reordered.fasta,1_1,0.050000000000000044,average,fastANI,1
+Agy99.fasta,2_1,0.050000000000000044,average,fastANI,2
+Liflandii.fasta,2_1,0.050000000000000044,average,fastANI,2
+SGL03.fasta,2_1,0.050000000000000044,average,fastANI,2
+Shinsuense.fasta,2_1,0.050000000000000044,average,fastANI,2

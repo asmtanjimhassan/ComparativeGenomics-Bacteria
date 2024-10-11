@@ -1,0 +1,589 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [LT708304.1]
+	Total Regions: 1
+	Total Region Length: 4349904
+Analyzing contigs...
+CONTIG: NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon (301094bp)
+Best alignment score: 126596.3 (LEN: 126939, IDY: 99.73), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 292448.6, number of alignments: 5, unaligned bases: 6829
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 294265 out of 300903 non-N bases (97.79%))
+			Real Alignment 1: 4131467 4193643 | 62177 1 | 62177 62177 | 99.93 | LT708304.1 NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = -1166) between these two alignments
+			Real Alignment 2: 4004383 4131465 | 190283 63345 | 127083 126939 | 99.73 | LT708304.1 NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = 2840614) between these two alignments
+			Real Alignment 3: 1161019 1161622 | 193033 192430 | 604 604 | 99.17 | LT708304.1 NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = -2846508) between these two alignments
+			Real Alignment 4: 3917727 4004383 | 282474 196177 | 86657 86298 | 99.53 | LT708304.1 NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = 2281) between these two alignments
+			Real Alignment 5: 3897204 3915445 | 300721 282475 | 18242 18247 | 99.9 | LT708304.1 NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon
+		Unaligned bases: 6829
+
+CONTIG: NODE_2_length_245239_cov_129.518819_pilon_pilon_pilon_pilon (245239bp)
+Best alignment score: 218384.0 (LEN: 219217, IDY: 99.62), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 242061.0, number of alignments: 2, unaligned bases: 2083
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 243156 out of 245239 non-N bases (99.15%))
+			Real Alignment 1: 2318399 2537858 | 219272 56 | 219460 219217 | 99.62 | LT708304.1 NODE_2_length_245239_cov_129.518819_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = -2029) between these two alignments
+			Real Alignment 2: 2294458 2318399 | 245239 221301 | 23942 23939 | 99.95 | LT708304.1 NODE_2_length_245239_cov_129.518819_pilon_pilon_pilon_pilon
+		Unaligned bases: 2083
+
+CONTIG: NODE_3_length_226620_cov_132.558643_pilon_pilon_pilon_pilon (226620bp)
+Best alignment score: 182873.9 (LEN: 183002, IDY: 99.93), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 223251.6, number of alignments: 3, unaligned bases: 2458
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 224162 out of 226420 non-N bases (99.00%))
+			Excluding internal overlap of size 507 between Alignment 1 and 2: 3461186 3488699 | 210012 182496 | 27514 27517 --> 3461186 3488195 | 210012 183003 | 27010 27010
+			Real Alignment 1: 3490342 3673334 | 183002 1 | 182993 183002 | 99.93 | LT708304.1 NODE_3_length_226620_cov_132.558643_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = 2146) between these two alignments
+			Excluding internal overlap of size 1 between Alignment 2 and 3: 3445699 3459849 | 224162 210012 | 14151 14151 --> 3445699 3459848 | 224162 210013 | 14150 14150
+			Real Alignment 2: 3461186 3488195 | 210012 183003 | 27010 27010 | 99.91 | LT708304.1 NODE_3_length_226620_cov_132.558643_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = 1337) between these two alignments
+			Real Alignment 3: 3445699 3459848 | 224162 210013 | 14150 14150 | 99.94 | LT708304.1 NODE_3_length_226620_cov_132.558643_pilon_pilon_pilon_pilon
+		Unaligned bases: 2458
+
+CONTIG: NODE_4_length_224791_cov_132.297264_pilon_pilon_pilon_pilon (224791bp)
+Best alignment score: 224566.2 (LEN: 224791, IDY: 99.90), Total number of alignments: 1
+		One align captures most of this contig: 609133 834015 | 224791 1 | 224883 224791 | 99.9 | LT708304.1 NODE_4_length_224791_cov_132.297264_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_5_length_205495_cov_133.381231_pilon_pilon_pilon_pilon (205495bp)
+Best alignment score: 159916.8 (LEN: 160157, IDY: 99.85), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 203072.4, number of alignments: 2, unaligned bases: 1902
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 203593 out of 205495 non-N bases (99.07%))
+			Real Alignment 1: 264980 308417 | 43436 1 | 43438 43436 | 99.93 | LT708304.1 NODE_5_length_205495_cov_133.381231_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = -1902) between these two alignments
+			Real Alignment 2: 104747 264979 | 205495 45339 | 160233 160157 | 99.85 | LT708304.1 NODE_5_length_205495_cov_133.381231_pilon_pilon_pilon_pilon
+		Unaligned bases: 1902
+
+CONTIG: NODE_6_length_197133_cov_130.977593_pilon_pilon_pilon_pilon (197133bp)
+Best alignment score: 165445.3 (LEN: 166511, IDY: 99.36), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 195501.3, number of alignments: 2, unaligned bases: 546
+		This contig is misassembled.
+			Real Alignment 1: 2161947 2192022 | 30076 1 | 30076 30076 | 99.95 | LT708304.1 NODE_6_length_197133_cov_130.977593_pilon_pilon_pilon_pilon
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 851 (local)
+			Real Alignment 2: 1993407 2160549 | 197133 30623 | 167143 166511 | 99.36 | LT708304.1 NODE_6_length_197133_cov_130.977593_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_7_length_195981_cov_133.353036_pilon_pilon_pilon_pilon (195981bp)
+Best alignment score: 103689.4 (LEN: 103814, IDY: 99.88), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 192993.9, number of alignments: 3, unaligned bases: 2404
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 193577 out of 195981 non-N bases (98.77%))
+			Real Alignment 1: 1 103810 | 103815 2 | 103810 103814 | 99.88 | LT708304.1 NODE_7_length_195981_cov_133.353036_pilon_pilon_pilon_pilon
+			  Not a misassembly [linear representation of circular genome] between these two alignments
+			Real Alignment 2: 4311797 4349904 | 141924 103816 | 38108 38109 | 99.9 | LT708304.1 NODE_7_length_195981_cov_133.353036_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = -2406) between these two alignments
+			Real Alignment 3: 4260002 4311799 | 195981 144328 | 51798 51654 | 99.67 | LT708304.1 NODE_7_length_195981_cov_133.353036_pilon_pilon_pilon_pilon
+		Unaligned bases: 2404
+
+CONTIG: NODE_8_length_188015_cov_132.231033_pilon_pilon_pilon_pilon (188015bp)
+Best alignment score: 187620.2 (LEN: 188015, IDY: 99.79), Total number of alignments: 1
+		One align captures most of this contig: 2612041 2800282 | 188015 1 | 188242 188015 | 99.79 | LT708304.1 NODE_8_length_188015_cov_132.231033_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_9_length_182590_cov_130.026669_pilon_pilon_pilon_pilon (182590bp)
+Best alignment score: 182206.6 (LEN: 182590, IDY: 99.79), Total number of alignments: 1
+		One align captures most of this contig: 3155325 3338008 | 182590 1 | 182684 182590 | 99.79 | LT708304.1 NODE_9_length_182590_cov_130.026669_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_10_length_165887_cov_130.083554_pilon_pilon_pilon_pilon (165887bp)
+Best alignment score: 165252.6 (LEN: 165833, IDY: 99.65), Total number of alignments: 1
+		One align captures most of this contig: 909845 1075493 | 1 165833 | 165649 165833 | 99.65 | LT708304.1 NODE_10_length_165887_cov_130.083554_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_11_length_150954_cov_132.636426_pilon_pilon_pilon_pilon (150954bp)
+Best alignment score: 102486.4 (LEN: 102733, IDY: 99.76), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 140280.9, number of alignments: 3, unaligned bases: 9596
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 141358 out of 150954 non-N bases (93.64%))
+			Real Alignment 1: 2941862 2943891 | 2030 1 | 2030 2030 | 99.95 | LT708304.1 NODE_11_length_150954_cov_132.636426_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = -9624) between these two alignments
+			Excluding internal overlap of size 653 between Alignment 2 and 3: 2801082 2838329 | 150954 113707 | 37248 37248 --> 2801082 2837676 | 150954 114360 | 36595 36595
+			Real Alignment 2: 2838989 2941889 | 114359 11627 | 102901 102733 | 99.76 | LT708304.1 NODE_11_length_150954_cov_132.636426_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = 1312) between these two alignments
+			Real Alignment 3: 2801082 2837676 | 150954 114360 | 36595 36595 | 99.78 | LT708304.1 NODE_11_length_150954_cov_132.636426_pilon_pilon_pilon_pilon
+		Unaligned bases: 9596
+
+CONTIG: NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon (142018bp)
+Best alignment score: 58629.3 (LEN: 58735, IDY: 99.82), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			The best set is below. Score: 127794.1, number of alignments: 4, unaligned bases: 13558
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 128460 out of 142018 non-N bases (90.45%))
+			Real Alignment 1: 1638381 1697170 | 1 58735 | 58790 58735 | 99.82 | LT708304.1 NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = -12732) between these two alignments
+			Excluding internal overlap of size 2 between Alignment 2 and 3: 1752371 1758654 | 124510 130793 | 6284 6284 --> 1752373 1758654 | 124512 130793 | 6282 6282
+			Real Alignment 2: 1697171 1750219 | 71468 124511 | 53049 53044 | 99.94 | LT708304.1 NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = 2153) between these two alignments
+			Real Alignment 3: 1752373 1758654 | 124512 130793 | 6282 6282 | 99.98 | LT708304.1 NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon
+			  Gap between these two alignments (local misassembly). Inconsistency = -806
+			Real Alignment 4: 1758655 1769053 | 131600 141998 | 10399 10399 | 99.98 | LT708304.1 NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon
+		Unaligned bases: 13558
+
+CONTIG: NODE_13_length_136672_cov_131.243689_pilon_pilon_pilon_pilon (136672bp)
+Best alignment score: 134786.3 (LEN: 135314, IDY: 99.61), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 3080886 3081470 | 136088 136672 | 585 585 | 100.0 | LT708304.1 NODE_13_length_136672_cov_131.243689_pilon_pilon_pilon_pilon
+		One align captures most of this contig: 2944691 3080182 | 1 135314 | 135492 135314 | 99.61 | LT708304.1 NODE_13_length_136672_cov_131.243689_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_14_length_130551_cov_132.229241_pilon_pilon_pilon_pilon (130551bp)
+Best alignment score: 130303.0 (LEN: 130551, IDY: 99.81), Total number of alignments: 1
+		One align captures most of this contig: 476998 607716 | 130551 1 | 130719 130551 | 99.81 | LT708304.1 NODE_14_length_130551_cov_132.229241_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_15_length_125327_cov_122.182156_pilon_pilon_pilon_pilon (125327bp)
+Best alignment score: 60221.8 (LEN: 60264, IDY: 99.93), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 121116.7, number of alignments: 3, unaligned bases: 3004
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 122323 out of 125327 non-N bases (97.60%))
+			Excluding internal overlap of size 1323 between Alignment 1 and 2: 1404203 1414061 | 62059 52110 | 9859 9950 --> 1404203 1412828 | 62059 53433 | 8626 8627
+			Real Alignment 1: 1417210 1470719 | 53432 1 | 53510 53432 | 99.42 | LT708304.1 NODE_15_length_125327_cov_122.182156_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = 4381) between these two alignments
+			Real Alignment 2: 1404203 1412828 | 62059 53433 | 8626 8627 | 98.78 | LT708304.1 NODE_15_length_125327_cov_122.182156_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = -3007) between these two alignments
+			Real Alignment 3: 1343951 1404205 | 125327 65064 | 60255 60264 | 99.93 | LT708304.1 NODE_15_length_125327_cov_122.182156_pilon_pilon_pilon_pilon
+		Unaligned bases: 3004
+
+CONTIG: NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon (111178bp)
+Best alignment score: 110878.5 (LEN: 111123, IDY: 99.78), Total number of alignments: 1
+		One align captures most of this contig: 1779586 1890901 | 1 111123 | 111316 111123 | 99.78 | LT708304.1 NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_17_length_106556_cov_128.588717_pilon_pilon_pilon_pilon (106556bp)
+Best alignment score: 85744.6 (LEN: 85882, IDY: 99.84), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 106341.6, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 15 between Alignment 1 and 2: 1171155 1191845 | 1 20689 | 20691 20689 --> 1171155 1191830 | 1 20674 | 20676 20674
+			Real Alignment 1: 1171155 1191830 | 1 20674 | 20676 20674 | 99.78 | LT708304.1 NODE_17_length_106556_cov_128.588717_pilon_pilon_pilon_pilon
+			  Gap between these two alignments (local misassembly). Inconsistency = 717
+			Real Alignment 2: 1192548 1278393 | 20675 106556 | 85846 85882 | 99.84 | LT708304.1 NODE_17_length_106556_cov_128.588717_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_18_length_98782_cov_125.289110_pilon_pilon_pilon_pilon (98782bp)
+Best alignment score: 60743.3 (LEN: 60865, IDY: 99.80), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 98254.0, number of alignments: 2, unaligned bases: 356
+		This contig is misassembled.
+			Real Alignment 1: 1536014 1573576 | 1 37561 | 37563 37561 | 99.93 | LT708304.1 NODE_18_length_98782_cov_125.289110_pilon_pilon_pilon_pilon
+			  Gap between these two alignments (local misassembly). Inconsistency = -372
+			Real Alignment 2: 1573561 1634448 | 37918 98782 | 60888 60865 | 99.8 | LT708304.1 NODE_18_length_98782_cov_125.289110_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_19_length_98740_cov_132.151067_pilon_pilon_pilon_pilon (98740bp)
+Best alignment score: 98611.6 (LEN: 98740, IDY: 99.87), Total number of alignments: 1
+		One align captures most of this contig: 3343667 3442338 | 98740 1 | 98672 98740 | 99.87 | LT708304.1 NODE_19_length_98740_cov_132.151067_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_20_length_90084_cov_130.623766_pilon_pilon_pilon_pilon (90084bp)
+Best alignment score: 64187.0 (LEN: 64335, IDY: 99.77), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 89187.3, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 901 between Alignment 1 and 2: 308372 334911 | 1 26650 | 26540 26650 --> 308372 333993 | 1 25749 | 25622 25749
+			Real Alignment 1: 308372 333993 | 1 25749 | 25622 25749 | 99.03 | LT708304.1 NODE_20_length_90084_cov_130.623766_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = 2897) between these two alignments
+			Real Alignment 2: 336891 401236 | 25750 90084 | 64346 64335 | 99.77 | LT708304.1 NODE_20_length_90084_cov_130.623766_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon (89671bp)
+Best alignment score: 89553.3 (LEN: 89616, IDY: 99.93), Total number of alignments: 1
+		One align captures most of this contig: 1075490 1165101 | 89616 1 | 89612 89616 | 99.93 | LT708304.1 NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_22_length_85918_cov_129.803559_pilon_pilon_pilon_pilon (85918bp)
+Best alignment score: 85127.6 (LEN: 85918, IDY: 99.08), Total number of alignments: 1
+		One align captures most of this contig: 3712252 3798730 | 85918 1 | 86479 85918 | 99.08 | LT708304.1 NODE_22_length_85918_cov_129.803559_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon (82183bp)
+Best alignment score: 70179.9 (LEN: 70222, IDY: 99.94), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 71058.2, number of alignments: 3, unaligned bases: 10477
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 71706 out of 82183 non-N bases (87.25%))
+			Real Alignment 1: 2608076 2608951 | 883 8 | 876 876 | 100.0 | LT708304.1 NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = 1255091) between these two alignments
+			Excluding internal overlap of size 184 between Alignment 2 and 3: 1341776 1342567 | 11301 12092 | 792 792 --> 1341776 1342383 | 11301 11908 | 608 608
+			Real Alignment 2: 1341776 1342383 | 11301 11908 | 608 608 | 97.85 | LT708304.1 NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = 1195471) between these two alignments
+			Real Alignment 3: 2537855 2608077 | 82130 11909 | 70223 70222 | 99.94 | LT708304.1 NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon
+		Unaligned bases: 10477
+
+CONTIG: NODE_24_length_80988_cov_129.959621_pilon_pilon_pilon_pilon (80988bp)
+Best alignment score: 80829.8 (LEN: 80935, IDY: 99.87), Total number of alignments: 1
+		One align captures most of this contig: 1890898 1971890 | 54 80988 | 80993 80935 | 99.87 | LT708304.1 NODE_24_length_80988_cov_129.959621_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_25_length_72388_cov_131.469136_pilon_pilon_pilon_pilon (72388bp)
+Best alignment score: 72098.4 (LEN: 72388, IDY: 99.60), Total number of alignments: 1
+		One align captures most of this contig: 402653 474907 | 72388 1 | 72255 72388 | 99.6 | LT708304.1 NODE_25_length_72388_cov_131.469136_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_26_length_71952_cov_133.209299_pilon_pilon_pilon_pilon (71952bp)
+Best alignment score: 71117.4 (LEN: 71952, IDY: 98.84), Total number of alignments: 1
+		One align captures most of this contig: 3082718 3155201 | 1 71952 | 72484 71952 | 98.84 | LT708304.1 NODE_26_length_71952_cov_133.209299_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_27_length_64597_cov_128.084596_pilon_pilon_pilon_pilon (64597bp)
+Best alignment score: 41012.4 (LEN: 41037, IDY: 99.94), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 51598.0, number of alignments: 2, unaligned bases: 12719
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 51878 out of 64597 non-N bases (80.31%))
+			Real Alignment 1: 2204051 2245089 | 41037 1 | 41039 41037 | 99.94 | LT708304.1 NODE_27_length_64597_cov_128.084596_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = -12719) between these two alignments
+			Real Alignment 2: 2193210 2204050 | 64597 53757 | 10841 10841 | 99.95 | LT708304.1 NODE_27_length_64597_cov_128.084596_pilon_pilon_pilon_pilon
+		Unaligned bases: 12719
+
+CONTIG: NODE_28_length_64161_cov_132.993698_pilon_pilon_pilon_pilon (64161bp)
+Best alignment score: 64109.7 (LEN: 64161, IDY: 99.92), Total number of alignments: 1
+		One align captures most of this contig: 4194931 4259081 | 1 64161 | 64151 64161 | 99.92 | LT708304.1 NODE_28_length_64161_cov_132.993698_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_29_length_61729_cov_127.225476_pilon_pilon_pilon_pilon (61729bp)
+Best alignment score: 61636.4 (LEN: 61729, IDY: 99.85), Total number of alignments: 1
+		One align captures most of this contig: 1280166 1341830 | 61729 1 | 61665 61729 | 99.85 | LT708304.1 NODE_29_length_61729_cov_127.225476_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_30_length_50979_cov_119.542239_pilon_pilon_pilon_pilon (50979bp)
+Best alignment score: 50953.5 (LEN: 50979, IDY: 99.95), Total number of alignments: 1
+		One align captures most of this contig: 1484060 1535038 | 50979 1 | 50979 50979 | 99.95 | LT708304.1 NODE_30_length_50979_cov_119.542239_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_31_length_46554_cov_132.050001_pilon_pilon_pilon_pilon (46554bp)
+Best alignment score: 46526.1 (LEN: 46554, IDY: 99.94), Total number of alignments: 1
+		One align captures most of this contig: 844467 891018 | 46554 1 | 46552 46554 | 99.94 | LT708304.1 NODE_31_length_46554_cov_132.050001_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_32_length_36444_cov_129.922861_pilon_pilon_pilon_pilon (36444bp)
+Best alignment score: 36360.2 (LEN: 36444, IDY: 99.77), Total number of alignments: 1
+		One align captures most of this contig: 3799275 3835713 | 36444 1 | 36439 36444 | 99.77 | LT708304.1 NODE_32_length_36444_cov_129.922861_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_33_length_35846_cov_128.471795_pilon_pilon_pilon_pilon (35846bp)
+Best alignment score: 33230.0 (LEN: 33525, IDY: 99.12), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 34814.0, number of alignments: 2, unaligned bases: 711
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 35135 out of 35846 non-N bases (98.02%))
+			Real Alignment 1: 3847824 3881314 | 33525 1 | 33491 33525 | 99.12 | LT708304.1 NODE_33_length_35846_cov_128.471795_pilon_pilon_pilon_pilon
+			  Gap between these two alignments (local misassembly). Inconsistency = -713
+			Real Alignment 2: 3846216 3847825 | 35846 34237 | 1610 1610 | 99.88 | LT708304.1 NODE_33_length_35846_cov_128.471795_pilon_pilon_pilon_pilon
+		Unaligned bases: 711
+
+CONTIG: NODE_34_length_35139_cov_131.988770_pilon_pilon_pilon_pilon (35139bp)
+Best alignment score: 35032.4 (LEN: 35085, IDY: 99.85), Total number of alignments: 1
+		One align captures most of this contig: 2252494 2287575 | 55 35139 | 35082 35085 | 99.85 | LT708304.1 NODE_34_length_35139_cov_131.988770_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_35_length_20036_cov_128.963515_pilon_pilon_pilon_pilon (20201bp)
+Best alignment score: 20015.2 (LEN: 20201, IDY: 99.08), Total number of alignments: 1
+		One align captures most of this contig: 1972041 1992055 | 1 20201 | 20015 20201 | 99.08 | LT708304.1 NODE_35_length_20036_cov_128.963515_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_36_length_18089_cov_132.793168_pilon_pilon_pilon_pilon (18089bp)
+Best alignment score: 18081.8 (LEN: 18089, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 3673979 3692068 | 1 18089 | 18090 18089 | 99.96 | LT708304.1 NODE_36_length_18089_cov_132.793168_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_37_length_17587_cov_131.199806_pilon_pilon_pilon_pilon (17587bp)
+Best alignment score: 9318.5 (LEN: 9326, IDY: 99.92), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 17303.3, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 35 between Alignment 1 and 2: 3836945 3845240 | 9292 17587 | 8296 8296 --> 3836980 3845240 | 9327 17587 | 8261 8261
+			Real Alignment 1: 1769019 1778343 | 9326 1 | 9325 9326 | 99.92 | LT708304.1 NODE_37_length_17587_cov_131.199806_pilon_pilon_pilon_pilon
+			  Extensive misassembly (relocation, inconsistency = 2058636) between these two alignments
+			Real Alignment 2: 3836980 3845240 | 9327 17587 | 8261 8261 | 99.9 | LT708304.1 NODE_37_length_17587_cov_131.199806_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_38_length_16880_cov_133.415988_pilon_pilon_pilon_pilon (16880bp)
+Best alignment score: 16873.2 (LEN: 16880, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 892186 909065 | 1 16880 | 16880 16880 | 99.96 | LT708304.1 NODE_38_length_16880_cov_133.415988_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_39_length_16503_cov_128.124514_pilon_pilon_pilon_pilon (16503bp)
+Best alignment score: 16032.7 (LEN: 16503, IDY: 97.15), Total number of alignments: 1
+		One align captures most of this contig: 3694232 3710663 | 1 16503 | 16432 16503 | 97.15 | LT708304.1 NODE_39_length_16503_cov_128.124514_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_40_length_11679_cov_104.479009_pilon_pilon_pilon_pilon (11679bp)
+Best alignment score: 11672.0 (LEN: 11679, IDY: 99.94), Total number of alignments: 1
+		One align captures most of this contig: 1472007 1483684 | 1 11679 | 11678 11679 | 99.94 | LT708304.1 NODE_40_length_11679_cov_104.479009_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon (11180bp)
+Best alignment score: 5266.2 (LEN: 5314, IDY: 99.10), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			The best set is below. Score: 10307.1, number of alignments: 6, unaligned bases: 680
+		This contig is misassembled.
+			Real Alignment 1: 3881933 3882138 | 1 206 | 206 206 | 100.0 | LT708304.1 NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon
+			  Indel (> 5bp) between these two alignments: insertion of length 168; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 3882139 3882564 | 375 800 | 426 426 | 100.0 | LT708304.1 NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon
+			  Indel (> 5bp) between these two alignments: deletion of length 153; 0 mismatches (number of Ns: 0)
+			Real Alignment 3: 3882742 3883389 | 825 1472 | 648 648 | 100.0 | LT708304.1 NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = -100 (local)
+			Real Alignment 4: 3883390 3884062 | 1573 2245 | 673 673 | 99.26 | LT708304.1 NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 292 (local)
+			Real Alignment 5: 3884643 3889929 | 2534 7847 | 5287 5314 | 99.1 | LT708304.1 NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon
+			  Scaffold gap between these two alignments, gap lengths difference (reference vs assembly) = 884 (local)
+			Real Alignment 6: 3890914 3894272 | 7948 11180 | 3359 3233 | 96.13 | LT708304.1 NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon (9865bp)
+Best alignment score: 4566.2 (LEN: 4568, IDY: 99.96), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			The best set is below. Score: 9598.3, number of alignments: 6, unaligned bases: 230
+		This contig is misassembled.
+			Real Alignment 1: 834126 838693 | 1 4568 | 4568 4568 | 99.96 | LT708304.1 NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon
+			  Indel (> 5bp) between these two alignments: insertion of length 48; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 838694 839054 | 4617 4977 | 361 361 | 100.0 | LT708304.1 NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon
+			  Indel (> 5bp) between these two alignments: insertion of length 48; 0 mismatches (number of Ns: 0)
+			Real Alignment 3: 839055 839626 | 5026 5597 | 572 572 | 99.65 | LT708304.1 NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon
+			  Indel (> 5bp) between these two alignments: deletion of length 138; 0 mismatches (number of Ns: 0)
+			Real Alignment 4: 839765 840822 | 5598 6655 | 1058 1058 | 100.0 | LT708304.1 NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon
+			  Gap between these two alignments (local misassembly). Inconsistency = 228
+			Real Alignment 5: 841185 841385 | 6790 6990 | 201 201 | 100.0 | LT708304.1 NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon
+			  Indel (> 5bp) between these two alignments: deletion of length 105; 0 mismatches (number of Ns: 0)
+			Real Alignment 6: 841491 844356 | 6991 9865 | 2866 2875 | 99.69 | LT708304.1 NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_43_length_6802_cov_130.418556_pilon_pilon_pilon_pilon (6802bp)
+Best alignment score: 411.0 (LEN: 418, IDY: 98.33), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3798678 3798829 | 6385 6535 | 152 151 | 95.39 | LT708304.1 NODE_43_length_6802_cov_130.418556_pilon_pilon_pilon_pilon
+			The best set is below. Score: 411.0, number of alignments: 1, unaligned bases: 6384
+		This contig is partially unaligned. (Aligned 418 out of 6802 non-N bases (6.15%))
+		Alignment: 3799275 3799692 | 1 418 | 418 418 | 98.33 | LT708304.1 NODE_43_length_6802_cov_130.418556_pilon_pilon_pilon_pilon
+		Unaligned bases: 419 to 6802 (6384)
+
+CONTIG: NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon (6110bp)
+Best alignment score: 6053.0 (LEN: 6056, IDY: 99.95), Total number of alignments: 1
+		One align captures most of this contig: 2246441 2252496 | 6110 55 | 6056 6056 | 99.95 | LT708304.1 NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_45_length_4830_cov_156.974869_pilon_pilon_pilon_pilon (4830bp)
+Best alignment score: 4810.2 (LEN: 4830, IDY: 99.59), Total number of alignments: 1
+		One align captures most of this contig: 2288815 2293644 | 1 4830 | 4830 4830 | 99.59 | LT708304.1 NODE_45_length_4830_cov_156.974869_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_46_length_3858_cov_129.083355_pilon_pilon_pilon_pilon (3858bp)
+Best alignment score: 3854.9 (LEN: 3858, IDY: 99.92), Total number of alignments: 1
+		One align captures most of this contig: 1165971 1169828 | 1 3858 | 3858 3858 | 99.92 | LT708304.1 NODE_46_length_3858_cov_129.083355_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_47_length_3132_cov_122.924602_pilon_pilon_pilon_pilon (3132bp)
+Best alignment score: 183.0 (LEN: 192, IDY: 95.31), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3693744 3693840 | 97 1 | 97 97 | 98.97 | LT708304.1 NODE_47_length_3132_cov_122.924602_pilon_pilon_pilon_pilon
+		Skipping redundant alignment 3692016 3692112 | 97 1 | 97 97 | 95.88 | LT708304.1 NODE_47_length_3132_cov_122.924602_pilon_pilon_pilon_pilon
+		Skipping redundant alignment 3694264 3694383 | 3132 3013 | 120 120 | 99.17 | LT708304.1 NODE_47_length_3132_cov_122.924602_pilon_pilon_pilon_pilon
+			The best set is below. Score: 183.0, number of alignments: 1, unaligned bases: 2940
+		This contig is partially unaligned. (Aligned 192 out of 3132 non-N bases (6.13%))
+		Alignment: 3692536 3692727 | 3132 2941 | 192 192 | 95.31 | LT708304.1 NODE_47_length_3132_cov_122.924602_pilon_pilon_pilon_pilon
+		Unaligned bases: 1 to 2940 (2940)
+
+CONTIG: NODE_48_length_2338_cov_136.300044_pilon_pilon_pilon_pilon (2338bp)
+Best alignment score: 1417.0 (LEN: 1418, IDY: 99.93), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1417.0, number of alignments: 1, unaligned bases: 920
+		This contig is partially unaligned. (Aligned 1418 out of 2338 non-N bases (60.65%))
+		Alignment: 1635729 1637146 | 2338 921 | 1418 1418 | 99.93 | LT708304.1 NODE_48_length_2338_cov_136.300044_pilon_pilon_pilon_pilon
+		Unaligned bases: 1 to 920 (920)
+
+CONTIG: NODE_49_length_2042_cov_131.704580_pilon_pilon_pilon_pilon (2042bp)
+Best alignment score: 2041.0 (LEN: 2042, IDY: 99.95), Total number of alignments: 1
+		One align captures most of this contig: 474932 476973 | 2042 1 | 2042 2042 | 99.95 | LT708304.1 NODE_49_length_2042_cov_131.704580_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_50_length_1658_cov_212.685590_pilon_pilon_pilon_pilon (1658bp)
+Best alignment score: 530.0 (LEN: 539, IDY: 98.33), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 953.0, number of alignments: 2, unaligned bases: 696
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 962 out of 1658 non-N bases (58.02%))
+			Real Alignment 1: 3693748 3694286 | 539 1 | 539 539 | 98.33 | LT708304.1 NODE_50_length_1658_cov_212.685590_pilon_pilon_pilon_pilon
+			  Gap between these two alignments (local misassembly). Inconsistency = -42
+			Real Alignment 2: 3692701 3693123 | 1628 1206 | 423 423 | 100.0 | LT708304.1 NODE_50_length_1658_cov_212.685590_pilon_pilon_pilon_pilon
+		Unaligned bases: 696
+
+CONTIG: NODE_51_length_1649_cov_136.154956_pilon_pilon_pilon_pilon (1649bp)
+Best alignment score: 1641.0 (LEN: 1642, IDY: 99.94), Total number of alignments: 1
+		One align captures most of this contig: 2609889 2611530 | 1649 8 | 1642 1642 | 99.94 | LT708304.1 NODE_51_length_1649_cov_136.154956_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_52_length_1526_cov_269.456152_pilon_pilon_pilon_pilon (1526bp)
+Best alignment score: 1526.0 (LEN: 1526, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 607662 609187 | 1526 1 | 1526 1526 | 100.0 | LT708304.1 NODE_52_length_1526_cov_269.456152_pilon_pilon_pilon_pilon
+			Skipping alignment 401182 402707 | 1526 1 | 1526 1526 | 100.0 | LT708304.1 NODE_52_length_1526_cov_269.456152_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_53_length_1461_cov_243.607397_pilon_pilon_pilon_pilon (1461bp)
+Best alignment score: 1455.0 (LEN: 1461, IDY: 99.59), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1992001 1993461 | 1461 1 | 1461 1461 | 99.59 | LT708304.1 NODE_53_length_1461_cov_243.607397_pilon_pilon_pilon_pilon
+			Skipping alignment 2245035 2246495 | 1461 1 | 1461 1461 | 99.52 | LT708304.1 NODE_53_length_1461_cov_243.607397_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_54_length_1408_cov_241.566888_pilon_pilon_pilon_pilon (1408bp)
+Best alignment score: 1397.0 (LEN: 1408, IDY: 99.22), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 4193589 4194985 | 1 1408 | 1397 1408 | 99.22 | LT708304.1 NODE_54_length_1408_cov_241.566888_pilon_pilon_pilon_pilon
+			Skipping alignment 1470665 1472061 | 1408 1 | 1397 1408 | 99.22 | LT708304.1 NODE_54_length_1408_cov_241.566888_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon (1355bp)
+Best alignment score: 1355.0 (LEN: 1355, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 3081416 3082770 | 1355 1 | 1355 1355 | 100.0 | LT708304.1 NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_56_length_1295_cov_130.143548_pilon_pilon_pilon_pilon (1295bp)
+Best alignment score: 1294.0 (LEN: 1295, IDY: 99.92), Total number of alignments: 1
+		One align captures most of this contig: 3443665 3444959 | 1295 1 | 1295 1295 | 99.92 | LT708304.1 NODE_56_length_1295_cov_130.143548_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_57_length_1086_cov_123.358875_pilon_pilon_pilon_pilon (1086bp)
+		This contig is unaligned. (1086 bp)
+		Unaligned bases: 1086 (number of Ns: 0)
+
+CONTIG: NODE_58_length_1070_cov_123.313300_pilon_pilon_pilon_pilon (1070bp)
+Best alignment score: 1070.0 (LEN: 1070, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 3339320 3340389 | 1070 1 | 1070 1070 | 100.0 | LT708304.1 NODE_58_length_1070_cov_123.313300_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_59_length_1031_cov_262.173156_pilon_pilon_pilon_pilon (1031bp)
+Best alignment score: 1028.0 (LEN: 1031, IDY: 99.71), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 3711277 3712306 | 1031 1 | 1030 1031 | 99.71 | LT708304.1 NODE_59_length_1031_cov_262.173156_pilon_pilon_pilon_pilon
+			Skipping alignment 4259027 4260056 | 1031 1 | 1030 1031 | 99.61 | LT708304.1 NODE_59_length_1031_cov_262.173156_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_60_length_979_cov_261.420996_pilon_pilon_pilon_pilon (979bp)
+Best alignment score: 978.0 (LEN: 979, IDY: 99.90), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1165047 1166025 | 979 1 | 979 979 | 99.9 | LT708304.1 NODE_60_length_979_cov_261.420996_pilon_pilon_pilon_pilon
+			Skipping alignment 1279243 1280220 | 1 979 | 978 979 | 99.9 | LT708304.1 NODE_60_length_979_cov_261.420996_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_61_length_923_cov_266.493088_pilon_pilon_pilon_pilon (923bp)
+Best alignment score: 923.0 (LEN: 923, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 2287521 2288443 | 923 1 | 923 923 | 100.0 | LT708304.1 NODE_61_length_923_cov_266.493088_pilon_pilon_pilon_pilon
+			Skipping alignment 2293590 2294512 | 923 1 | 923 923 | 100.0 | LT708304.1 NODE_61_length_923_cov_266.493088_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon (909bp)
+Best alignment score: 907.0 (LEN: 909, IDY: 99.78), Total number of alignments: 6
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 2943837 2944745 | 1 909 | 909 909 | 99.78 | LT708304.1 NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon
+			Skipping alignment 1169775 1170683 | 1 909 | 909 909 | 99.78 | LT708304.1 NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon
+			Skipping alignment 2800228 2801136 | 909 1 | 909 909 | 99.78 | LT708304.1 NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon
+			Skipping alignment 3342811 3343719 | 909 1 | 909 909 | 99.78 | LT708304.1 NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon
+			Skipping alignment 3442285 3443193 | 1 909 | 909 909 | 99.78 | LT708304.1 NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon
+			Skipping alignment 1343097 1344005 | 909 1 | 909 909 | 99.67 | LT708304.1 NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_63_length_897_cov_146.484561_pilon_pilon_pilon_pilon (897bp)
+Best alignment score: 893.0 (LEN: 897, IDY: 99.55), Total number of alignments: 1
+		One align captures most of this contig: 3693069 3693965 | 1 897 | 897 897 | 99.55 | LT708304.1 NODE_63_length_897_cov_146.484561_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_64_length_889_cov_269.326139_pilon_pilon_pilon_pilon (889bp)
+Best alignment score: 889.0 (LEN: 889, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 909011 909899 | 1 889 | 889 889 | 100.0 | LT708304.1 NODE_64_length_889_cov_269.326139_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_65_length_847_cov_1.709596_pilon_pilon_pilon_pilon (847bp)
+		This contig is unaligned. (847 bp)
+		Unaligned bases: 847 (number of Ns: 0)
+
+CONTIG: NODE_66_length_791_cov_251.222826_pilon_pilon_pilon_pilon (791bp)
+Best alignment score: 791.0 (LEN: 791, IDY: 100.00), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1278339 1279129 | 1 791 | 791 791 | 100.0 | LT708304.1 NODE_66_length_791_cov_251.222826_pilon_pilon_pilon_pilon
+			Skipping alignment 2191968 2192758 | 791 1 | 791 791 | 100.0 | LT708304.1 NODE_66_length_791_cov_251.222826_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_67_length_780_cov_187.266207_pilon_pilon_pilon_pilon (780bp)
+Best alignment score: 779.0 (LEN: 780, IDY: 99.87), Total number of alignments: 1
+		One align captures most of this contig: 3340335 3341114 | 780 1 | 780 780 | 99.87 | LT708304.1 NODE_67_length_780_cov_187.266207_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_68_length_754_cov_263.464950_pilon_pilon_pilon_pilon (754bp)
+Best alignment score: 752.0 (LEN: 754, IDY: 99.73), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 3673280 3674033 | 754 1 | 754 754 | 99.73 | LT708304.1 NODE_68_length_754_cov_263.464950_pilon_pilon_pilon_pilon
+			Skipping alignment 891087 891840 | 754 1 | 754 754 | 99.73 | LT708304.1 NODE_68_length_754_cov_263.464950_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_69_length_719_cov_107.980422_pilon_pilon_pilon_pilon (719bp)
+Best alignment score: 710.1 (LEN: 719, IDY: 98.76), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 3881260 3881987 | 719 1 | 728 719 | 98.76 | LT708304.1 NODE_69_length_719_cov_107.980422_pilon_pilon_pilon_pilon
+			Skipping alignment 3895196 3895923 | 719 1 | 728 719 | 98.49 | LT708304.1 NODE_69_length_719_cov_107.980422_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_70_length_713_cov_125.284195_pilon_pilon_pilon_pilon (713bp)
+Best alignment score: 712.0 (LEN: 713, IDY: 99.86), Total number of alignments: 1
+		One align captures most of this contig: 3341626 3342338 | 1 713 | 713 713 | 99.86 | LT708304.1 NODE_70_length_713_cov_125.284195_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_71_length_701_cov_126.517028_pilon_pilon_pilon_pilon (701bp)
+Best alignment score: 700.0 (LEN: 701, IDY: 99.86), Total number of alignments: 1
+		One align captures most of this contig: 2837722 2838422 | 701 1 | 701 701 | 99.86 | LT708304.1 NODE_71_length_701_cov_126.517028_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_72_length_621_cov_267.376325_pilon_pilon_pilon_pilon (621bp)
+Best alignment score: 620.0 (LEN: 621, IDY: 99.84), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 3338676 3339263 | 1 588 | 588 588 | 99.83 | LT708304.1 NODE_72_length_621_cov_267.376325_pilon_pilon_pilon_pilon
+		One align captures most of this contig: 3341060 3341680 | 1 621 | 621 621 | 99.84 | LT708304.1 NODE_72_length_621_cov_267.376325_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_73_length_616_cov_257.335116_pilon_pilon_pilon_pilon (616bp)
+Best alignment score: 613.0 (LEN: 616, IDY: 99.51), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 2611483 2612095 | 616 1 | 613 616 | 99.51 | LT708304.1 NODE_73_length_616_cov_257.335116_pilon_pilon_pilon_pilon
+			Skipping alignment 2608904 2609513 | 616 1 | 610 616 | 99.03 | LT708304.1 NODE_73_length_616_cov_257.335116_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_74_length_605_cov_237.776364_pilon_pilon_pilon_pilon (605bp)
+Best alignment score: 605.0 (LEN: 605, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 3798725 3799329 | 605 1 | 605 605 | 100.0 | LT708304.1 NODE_74_length_605_cov_237.776364_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_75_length_600_cov_94.682569_pilon_pilon_pilon_pilon (600bp)
+Best alignment score: 571.3 (LEN: 600, IDY: 95.21), Total number of alignments: 1
+		One align captures most of this contig: 3895869 3896474 | 1 600 | 606 600 | 95.21 | LT708304.1 NODE_75_length_600_cov_94.682569_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_76_length_575_cov_162.030769_pilon_pilon_pilon_pilon (575bp)
+		This contig is unaligned. (575 bp)
+		Unaligned bases: 575 (number of Ns: 0)
+
+CONTIG: NODE_77_length_574_cov_1.974952_pilon_pilon_pilon_pilon (574bp)
+Best alignment score: 573.0 (LEN: 574, IDY: 99.83), Total number of alignments: 1
+		One align captures most of this contig: 3489372 3489945 | 574 1 | 574 574 | 99.83 | LT708304.1 NODE_77_length_574_cov_1.974952_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_78_length_568_cov_419.452242_pilon_pilon_pilon_pilon (568bp)
+Best alignment score: 559.1 (LEN: 568, IDY: 98.44), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 3890220 3890796 | 568 1 | 577 568 | 98.44 | LT708304.1 NODE_78_length_568_cov_419.452242_pilon_pilon_pilon_pilon
+			Skipping alignment 3889875 3890451 | 568 1 | 577 568 | 98.44 | LT708304.1 NODE_78_length_568_cov_419.452242_pilon_pilon_pilon_pilon
+
+CONTIG: NODE_79_length_538_cov_1.954451_pilon_pilon_pilon_pilon (538bp)
+		This contig is unaligned. (538 bp)
+		Unaligned bases: 538 (number of Ns: 0)
+
+Analyzing coverage...
+Writing SNPs into /home/shafi/tanjim/bioinformatics/WGS_analysis/bacterialgenomics/QC_ASSEMBLY/contigs_reports/minimap_output/target-polished.used_snps
+
+Analysis is finished!
+Founded SNPs were written into /home/shafi/tanjim/bioinformatics/WGS_analysis/bacterialgenomics/QC_ASSEMBLY/contigs_reports/minimap_output/target-polished.used_snps
+
+Results:
+	Local Misassemblies: 6
+	Misassemblies: 20
+		Relocations: 20
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 4
+	Misassembled Contigs: 12
+	Misassembled Contig Bases: 1847179
+	Misassemblies Inter-Contig Overlap ("Extra" Aligned Bases): 0
+Unaligned Contigs: 4 + 15 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Bases in Fully and Partially Unaligned Contigs: 79727
+
+Ambiguously Mapped Contigs: 14
+Total Bases in Ambiguously Mapped Contigs: 394962
+"Extra" Aligned Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used (there is no "extra" aligned bases).
+
+	Covered Bases in Reference: 4298445
+	Raw Aligned Bases in Assembly: 4298077
+	Total Aligned Bases in Assembly (with "Extras"): 4298077
+
+	SNPs: 2656
+	Insertions: 3377
+	Deletions: 6704
+

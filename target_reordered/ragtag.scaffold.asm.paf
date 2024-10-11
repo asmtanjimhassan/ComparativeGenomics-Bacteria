@@ -1,0 +1,466 @@
+NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon	301094	5	301093	-	NC_000962.3	4411532	3948593	4252931	299988	304537	60	tp:A:P	cm:i:30015	s1:i:299410	s2:i:522	dv:f:0.0000	rl:i:0
+NODE_2_length_245239_cov_129.518819_pilon_pilon_pilon_pilon	245239	59	245231	-	NC_000962.3	4411532	2306141	2555847	244365	249710	60	tp:A:P	cm:i:24350	s1:i:243647	s2:i:693	dv:f:0.0000	rl:i:19
+NODE_3_length_226620_cov_132.558643_pilon_pilon_pilon_pilon	226620	4028	226618	-	NC_000962.3	4411532	3485058	3710371	221909	225357	60	tp:A:P	cm:i:22155	s1:i:221468	s2:i:85	dv:f:0.0000	rl:i:0
+NODE_3_length_226620_cov_132.558643_pilon_pilon_pilon_pilon	226620	7	177	-	NC_000962.3	4411532	888775	888945	170	170	60	tp:A:P	cm:i:15	s1:i:170	s2:i:0	dv:f:0.0034	rl:i:0
+NODE_4_length_224791_cov_132.297264_pilon_pilon_pilon_pilon	224791	10	224781	-	NC_000962.3	4411532	607991	832181	223495	224807	60	tp:A:P	cm:i:22279	s1:i:223387	s2:i:145	dv:f:0.0000	rl:i:123
+NODE_5_length_205495_cov_133.381231_pilon_pilon_pilon_pilon	205495	4	205481	-	NC_000962.3	4411532	104725	310088	204687	205481	60	tp:A:P	cm:i:20570	s1:i:204666	s2:i:166	dv:f:0.0000	rl:i:0
+NODE_6_length_197133_cov_130.977593_pilon_pilon_pilon_pilon	197133	7	197133	-	NC_000962.3	4411532	1998557	2195971	196138	197655	60	tp:A:P	cm:i:19466	s1:i:195997	s2:i:393	dv:f:0.0000	rl:i:94
+NODE_7_length_195981_cov_133.353036_pilon_pilon_pilon_pilon	195981	17	103810	-	NC_000962.3	4411532	5	103759	103232	103794	60	tp:A:P	cm:i:10316	s1:i:103223	s2:i:180	dv:f:0.0000	rl:i:0
+NODE_7_length_195981_cov_133.353036_pilon_pilon_pilon_pilon	195981	103818	195978	-	NC_000962.3	4411532	4319319	4411529	91805	92215	60	tp:A:P	cm:i:9090	s1:i:91793	s2:i:53	dv:f:0.0000	rl:i:0
+NODE_8_length_188015_cov_132.231033_pilon_pilon_pilon_pilon	188015	17	188005	-	NC_000962.3	4411532	2639568	2829057	187417	189510	60	tp:A:P	cm:i:18732	s1:i:187172	s2:i:693	dv:f:0.0000	rl:i:38
+NODE_9_length_182590_cov_130.026669_pilon_pilon_pilon_pilon	182590	16	182583	-	NC_000962.3	4411532	3194403	3376965	181842	182687	60	tp:A:P	cm:i:18115	s1:i:181795	s2:i:132	dv:f:0.0000	rl:i:0
+NODE_10_length_165887_cov_130.083554_pilon_pilon_pilon_pilon	165887	7	165833	+	NC_000962.3	4411532	909021	1075026	165108	166115	60	tp:A:P	cm:i:16360	s1:i:165034	s2:i:312	dv:f:0.0000	rl:i:38
+NODE_11_length_150954_cov_132.636426_pilon_pilon_pilon_pilon	150954	14	150940	-	NC_000962.3	4411532	2829887	2982986	150490	153100	60	tp:A:P	cm:i:15048	s1:i:150148	s2:i:735	dv:f:0.0000	rl:i:57
+NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon	142018	13	141992	+	NC_000962.3	4411532	1637241	1779272	141627	142032	60	tp:A:P	cm:i:14178	s1:i:141617	s2:i:1016	dv:f:0.0000	rl:i:0
+NODE_13_length_136672_cov_131.243689_pilon_pilon_pilon_pilon	136672	17	136662	+	NC_000962.3	4411532	2983816	3120568	136075	136854	60	tp:A:P	cm:i:13655	s1:i:136020	s2:i:180	dv:f:0.0000	rl:i:0
+NODE_14_length_130551_cov_132.229241_pilon_pilon_pilon_pilon	130551	2	130538	-	NC_000962.3	4411532	475991	606563	130052	130616	60	tp:A:P	cm:i:13045	s1:i:130026	s2:i:109	dv:f:0.0000	rl:i:0
+NODE_15_length_125327_cov_122.182156_pilon_pilon_pilon_pilon	125327	17	125313	-	NC_000962.3	4411532	1342689	1468246	125010	125563	60	tp:A:P	cm:i:12436	s1:i:124962	s2:i:59	dv:f:0.0000	rl:i:38
+NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	1	111114	+	NC_000962.3	4411532	1789811	1901087	110761	111286	60	tp:A:P	cm:i:11103	s1:i:110729	s2:i:118	dv:f:0.0000	rl:i:19
+NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	111123	111170	+	NC_000962.3	4411532	2550013	2550060	47	47	0	tp:A:P	cm:i:3	s1:i:47	s2:i:47	dv:f:0.0265	rl:i:19
+NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	111123	111170	-	NC_000962.3	4411532	3121831	3121878	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	111123	111170	+	NC_000962.3	4411532	3890778	3890825	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	111123	111170	+	NC_000962.3	4411532	2635576	2635623	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	111123	111170	-	NC_000962.3	4411532	1543259	1543306	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	111123	111170	-	NC_000962.3	4411532	2431424	2431471	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	111123	111170	+	NC_000962.3	4411532	889020	889067	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	111123	111170	-	NC_000962.3	4411532	2785922	2785969	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	111123	111170	+	NC_000962.3	4411532	2972108	2972155	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	111123	111170	-	NC_000962.3	4411532	1989010	1989057	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_17_length_106556_cov_128.588717_pilon_pilon_pilon_pilon	106556	18	106538	+	NC_000962.3	4411532	1170695	1276975	105920	106529	60	tp:A:P	cm:i:10521	s1:i:105874	s2:i:368	dv:f:0.0001	rl:i:66
+NODE_18_length_98782_cov_125.289110_pilon_pilon_pilon_pilon	98782	28	98624	+	NC_000962.3	4411532	1533597	1633534	98256	99985	60	tp:A:P	cm:i:9747	s1:i:98027	s2:i:57	dv:f:0.0000	rl:i:47
+NODE_18_length_98782_cov_125.289110_pilon_pilon_pilon_pilon	98782	98634	98771	+	NC_000962.3	4411532	1636939	1637076	100	137	60	tp:A:P	cm:i:8	s1:i:100	s2:i:0	dv:f:0.0252	rl:i:47
+NODE_19_length_98740_cov_132.151067_pilon_pilon_pilon_pilon	98740	13	98728	-	NC_000962.3	4411532	3382706	3481366	98415	98729	60	tp:A:P	cm:i:9786	s1:i:98398	s2:i:71	dv:f:0.0000	rl:i:0
+NODE_20_length_90084_cov_130.623766_pilon_pilon_pilon_pilon	90084	4	90082	+	NC_000962.3	4411532	310050	400204	88419	90160	60	tp:A:P	cm:i:8886	s1:i:88401	s2:i:314	dv:f:0.0002	rl:i:123
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	9	89616	-	NC_000962.3	4411532	1075022	1164617	89113	89607	60	tp:A:P	cm:i:8897	s1:i:89110	s2:i:710	dv:f:0.0000	rl:i:19
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	89616	89663	-	NC_000962.3	4411532	1543259	1543306	47	47	0	tp:A:P	cm:i:3	s1:i:47	s2:i:47	dv:f:0.0265	rl:i:19
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	89616	89663	-	NC_000962.3	4411532	2431424	2431471	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	89616	89663	-	NC_000962.3	4411532	2785922	2785969	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	89616	89663	-	NC_000962.3	4411532	1989010	1989057	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	89616	89663	-	NC_000962.3	4411532	3121831	3121878	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	89616	89663	+	NC_000962.3	4411532	3890778	3890825	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	89616	89663	+	NC_000962.3	4411532	2635576	2635623	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	89616	89663	+	NC_000962.3	4411532	2972108	2972155	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	89616	89663	+	NC_000962.3	4411532	1996100	1996147	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	89616	89663	+	NC_000962.3	4411532	2550013	2550060	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	89616	89663	+	NC_000962.3	4411532	889020	889067	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:19
+NODE_22_length_85918_cov_129.803559_pilon_pilon_pilon_pilon	85918	49	85915	-	NC_000962.3	4411532	3754309	3841640	85625	87340	60	tp:A:P	cm:i:8522	s1:i:85390	s2:i:684	dv:f:0.0000	rl:i:47
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	347	82119	-	NC_000962.3	4411532	2555858	2635566	79548	81772	60	tp:A:P	cm:i:7970	s1:i:79229	s2:i:600	dv:f:0.0008	rl:i:0
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	82129	82176	+	NC_000962.3	4411532	889020	889067	47	47	0	tp:A:P	cm:i:3	s1:i:47	s2:i:47	dv:f:0.0265	rl:i:0
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	82129	82176	+	NC_000962.3	4411532	2635576	2635623	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	82129	82176	-	NC_000962.3	4411532	1989010	1989057	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	82129	82176	+	NC_000962.3	4411532	2972108	2972155	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	82129	82176	+	NC_000962.3	4411532	1996100	1996147	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	82129	82176	-	NC_000962.3	4411532	1543259	1543306	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	82129	82176	+	NC_000962.3	4411532	3890778	3890825	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	82129	82176	-	NC_000962.3	4411532	2785922	2785969	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	82129	82176	+	NC_000962.3	4411532	2550013	2550060	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	82129	82176	-	NC_000962.3	4411532	2431424	2431471	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	82129	82176	-	NC_000962.3	4411532	3121831	3121878	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_24_length_80988_cov_129.959621_pilon_pilon_pilon_pilon	80988	67	80984	+	NC_000962.3	4411532	1901106	1982079	80731	80973	60	tp:A:P	cm:i:8051	s1:i:80720	s2:i:95	dv:f:0.0000	rl:i:0
+NODE_25_length_72388_cov_131.469136_pilon_pilon_pilon_pilon	72388	12	72378	-	NC_000962.3	4411532	401632	473876	71823	72492	60	tp:A:P	cm:i:7148	s1:i:71755	s2:i:0	dv:f:0.0001	rl:i:0
+NODE_26_length_71952_cov_133.209299_pilon_pilon_pilon_pilon	71952	18	71946	+	NC_000962.3	4411532	3121843	3194267	71571	72586	60	tp:A:P	cm:i:7133	s1:i:71428	s2:i:295	dv:f:0.0000	rl:i:0
+NODE_27_length_64597_cov_128.084596_pilon_pilon_pilon_pilon	64597	9	64592	-	NC_000962.3	4411532	2197170	2261754	64379	64585	60	tp:A:P	cm:i:6485	s1:i:64379	s2:i:65	dv:f:0.0000	rl:i:0
+NODE_28_length_64161_cov_132.993698_pilon_pilon_pilon_pilon	64161	17	64146	+	NC_000962.3	4411532	4254251	4318380	63988	64129	60	tp:A:P	cm:i:6389	s1:i:63988	s2:i:110	dv:f:0.0000	rl:i:0
+NODE_29_length_61729_cov_127.225476_pilon_pilon_pilon_pilon	61729	14	61720	-	NC_000962.3	4411532	1278774	1340541	61474	61768	60	tp:A:P	cm:i:6164	s1:i:61462	s2:i:602	dv:f:0.0000	rl:i:0
+NODE_30_length_50979_cov_119.542239_pilon_pilon_pilon_pilon	50979	1	50966	-	NC_000962.3	4411532	1481628	1532593	50780	50965	60	tp:A:P	cm:i:5011	s1:i:50780	s2:i:54	dv:f:0.0000	rl:i:0
+NODE_31_length_46554_cov_132.050001_pilon_pilon_pilon_pilon	46554	12	46543	-	NC_000962.3	4411532	842287	888817	46311	46532	60	tp:A:P	cm:i:4664	s1:i:46310	s2:i:42	dv:f:0.0000	rl:i:0
+NODE_32_length_36444_cov_129.922861_pilon_pilon_pilon_pilon	36444	12	36441	-	NC_000962.3	4411532	3847162	3883592	36331	36430	60	tp:A:P	cm:i:3620	s1:i:36331	s2:i:95	dv:f:0.0000	rl:i:0
+NODE_33_length_35846_cov_128.471795_pilon_pilon_pilon_pilon	35846	16	35845	-	NC_000962.3	4411532	3895465	3931325	35627	35887	60	tp:A:P	cm:i:3519	s1:i:35606	s2:i:54	dv:f:0.0000	rl:i:93
+NODE_34_length_35139_cov_131.988770_pilon_pilon_pilon_pilon	35139	4626	35130	+	NC_000962.3	4411532	2268739	2299242	30355	30504	60	tp:A:P	cm:i:3055	s1:i:30355	s2:i:0	dv:f:0.0000	rl:i:0
+NODE_34_length_35139_cov_131.988770_pilon_pilon_pilon_pilon	35139	1356	1569	+	NC_000962.3	4411532	2266446	2266658	111	213	60	tp:A:P	cm:i:7	s1:i:111	s2:i:0	dv:f:0.0131	rl:i:0
+NODE_35_length_20036_cov_128.963515_pilon_pilon_pilon_pilon	20201	2	19493	+	NC_000962.3	4411532	1982085	1996099	12480	19491	60	tp:A:P	cm:i:1240	s1:i:11640	s2:i:193	dv:f:0.0003	rl:i:47
+NODE_36_length_18089_cov_132.793168_pilon_pilon_pilon_pilon	18089	9	18082	+	NC_000962.3	4411532	3712325	3730398	18012	18073	60	tp:A:P	cm:i:1769	s1:i:18012	s2:i:485	dv:f:0.0000	rl:i:0
+NODE_37_length_17587_cov_131.199806_pilon_pilon_pilon_pilon	17587	10	9316	-	NC_000962.3	4411532	1779253	1788558	9275	9306	60	tp:A:P	cm:i:931	s1:i:9275	s2:i:542	dv:f:0.0001	rl:i:0
+NODE_37_length_17587_cov_131.199806_pilon_pilon_pilon_pilon	17587	9297	17559	+	NC_000962.3	4411532	3884841	3894461	8221	9620	60	tp:A:P	cm:i:831	s1:i:8010	s2:i:64	dv:f:0.0001	rl:i:0
+NODE_38_length_16880_cov_133.415988_pilon_pilon_pilon_pilon	16880	9	16878	+	NC_000962.3	4411532	891364	908233	16804	16869	60	tp:A:P	cm:i:1670	s1:i:16804	s2:i:64	dv:f:0.0000	rl:i:0
+NODE_39_length_16503_cov_128.124514_pilon_pilon_pilon_pilon	16503	5	16486	+	NC_000962.3	4411532	3736128	3752700	16273	16650	60	tp:A:P	cm:i:1634	s1:i:16229	s2:i:117	dv:f:0.0001	rl:i:190
+NODE_40_length_11679_cov_104.479009_pilon_pilon_pilon_pilon	11679	5	11666	+	NC_000962.3	4411532	1469566	1481227	11587	11661	60	tp:A:P	cm:i:1147	s1:i:11587	s2:i:45	dv:f:0.0000	rl:i:0
+NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon	11180	3	11162	+	NC_000962.3	4411532	3931953	3945134	10332	13181	60	tp:A:P	cm:i:1033	s1:i:10005	s2:i:533	dv:f:0.0001	rl:i:94
+NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon	9865	11	9855	+	NC_000962.3	4411532	832312	842156	9570	9844	60	tp:A:P	cm:i:926	s1:i:9570	s2:i:232	dv:f:0.0004	rl:i:75
+NODE_43_length_6802_cov_130.418556_pilon_pilon_pilon_pilon	6802	3	4597	+	NC_000962.3	4411532	3842236	3846832	4478	4596	60	tp:A:P	cm:i:424	s1:i:4478	s2:i:66	dv:f:0.0011	rl:i:0
+NODE_43_length_6802_cov_130.418556_pilon_pilon_pilon_pilon	6802	4333	5151	+	NC_000962.3	4411532	3841640	3842471	154	831	60	tp:A:P	cm:i:12	s1:i:151	s2:i:0	dv:f:0.0436	rl:i:0
+NODE_43_length_6802_cov_130.418556_pilon_pilon_pilon_pilon	6802	6390	6509	+	NC_000962.3	4411532	3841642	3841761	67	119	27	tp:A:P	cm:i:4	s1:i:67	s2:i:0	dv:f:0.0290	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	501	6110	-	NC_000962.3	4411532	2263114	2268723	5570	5609	60	tp:A:P	cm:i:564	s1:i:5570	s2:i:49	dv:f:0.0002	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	7	54	+	NC_000962.3	4411532	2785922	2785969	47	47	0	tp:A:P	cm:i:3	s1:i:47	s2:i:47	dv:f:0.0150	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	7	54	+	NC_000962.3	4411532	3121831	3121878	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	7	54	-	NC_000962.3	4411532	3890778	3890825	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	7	54	-	NC_000962.3	4411532	2635576	2635623	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	7	54	-	NC_000962.3	4411532	2550013	2550060	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	7	54	+	NC_000962.3	4411532	1989010	1989057	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	7	54	-	NC_000962.3	4411532	2972108	2972155	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	7	54	+	NC_000962.3	4411532	2431424	2431471	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	7	54	-	NC_000962.3	4411532	1996100	1996147	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	7	54	-	NC_000962.3	4411532	889020	889067	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	7	54	+	NC_000962.3	4411532	1543259	1543306	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_45_length_4830_cov_156.974869_pilon_pilon_pilon_pilon	4830	8	4821	+	NC_000962.3	4411532	2300498	2305311	4787	4813	60	tp:A:P	cm:i:471	s1:i:4787	s2:i:1159	dv:f:0.0001	rl:i:0
+NODE_46_length_3858_cov_129.083355_pilon_pilon_pilon_pilon	3858	37	3845	+	NC_000962.3	4411532	1165531	1169338	3796	3808	60	tp:A:P	cm:i:358	s1:i:3796	s2:i:41	dv:f:0.0003	rl:i:0
+NODE_47_length_3132_cov_122.924602_pilon_pilon_pilon_pilon	3132	0	3106	-	NC_000962.3	4411532	3732626	3735732	3106	3106	60	tp:A:P	cm:i:322	s1:i:3106	s2:i:105	dv:f:0.0002	rl:i:0
+NODE_48_length_2338_cov_136.300044_pilon_pilon_pilon_pilon	2338	13	2320	-	NC_000962.3	4411532	1634753	1637060	2209	2307	60	tp:A:P	cm:i:238	s1:i:2209	s2:i:0	dv:f:0.0007	rl:i:0
+NODE_49_length_2042_cov_131.704580_pilon_pilon_pilon_pilon	2042	12	2029	-	NC_000962.3	4411532	473925	475942	1999	2017	60	tp:A:P	cm:i:201	s1:i:1999	s2:i:109	dv:f:0.0003	rl:i:0
+NODE_50_length_1658_cov_212.685590_pilon_pilon_pilon_pilon	1658	10	1641	-	NC_000962.3	4411532	3730934	3732613	905	1721	60	tp:A:P	cm:i:84	s1:i:880	s2:i:472	dv:f:0.0042	rl:i:0
+NODE_51_length_1649_cov_136.154956_pilon_pilon_pilon_pilon	1649	7	1642	-	NC_000962.3	4411532	2637410	2639045	1635	1635	60	tp:A:P	cm:i:154	s1:i:1635	s2:i:52	dv:f:0.0003	rl:i:0
+NODE_52_length_1526_cov_269.456152_pilon_pilon_pilon_pilon	1526	7	1516	-	NC_000962.3	4411532	606520	608029	1509	1509	0	tp:A:P	cm:i:152	s1:i:1509	s2:i:1509	dv:f:0.0003	rl:i:0
+NODE_52_length_1526_cov_269.456152_pilon_pilon_pilon_pilon	1526	7	1516	-	NC_000962.3	4411532	400161	401670	1509	1509	0	tp:A:S	cm:i:152	s1:i:1509	dv:f:0.0003	rl:i:0
+NODE_53_length_1461_cov_243.607397_pilon_pilon_pilon_pilon	1461	6	1453	-	NC_000962.3	4411532	2261716	2263163	1447	1447	60	tp:A:P	cm:i:146	s1:i:1447	s2:i:1147	dv:f:0.0004	rl:i:0
+NODE_54_length_1408_cov_241.566888_pilon_pilon_pilon_pilon	1408	5	1394	+	NC_000962.3	4411532	4252886	4254275	1389	1389	0	tp:A:P	cm:i:140	s1:i:1389	s2:i:1389	dv:f:0.0004	rl:i:0
+NODE_54_length_1408_cov_241.566888_pilon_pilon_pilon_pilon	1408	5	1394	-	NC_000962.3	4411532	1468222	1469611	1389	1389	0	tp:A:S	cm:i:140	s1:i:1389	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	+	NC_000962.3	4411532	3890794	3892127	1333	1333	0	tp:A:P	cm:i:143	s1:i:1333	s2:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	-	NC_000962.3	4411532	3120529	3121862	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	+	NC_000962.3	4411532	2635592	2636925	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	-	NC_000962.3	4411532	1987708	1989041	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	-	NC_000962.3	4411532	2430122	2431455	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	-	NC_000962.3	4411532	1541957	1543290	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	-	NC_000962.3	4411532	3795063	3796396	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	+	NC_000962.3	4411532	2550029	2551362	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	+	NC_000962.3	4411532	3710397	3711730	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	+	NC_000962.3	4411532	2365429	2366762	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	-	NC_000962.3	4411532	2784620	2785953	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	+	NC_000962.3	4411532	889036	890369	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	+	NC_000962.3	4411532	1996116	1997449	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	+	NC_000962.3	4411532	3552728	3554061	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	+	NC_000962.3	4411532	2972124	2973457	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	16	1349	+	NC_000962.3	4411532	3551245	3552578	1333	1333	0	tp:A:S	cm:i:143	s1:i:1333	dv:f:0.0004	rl:i:0
+NODE_56_length_1295_cov_130.143548_pilon_pilon_pilon_pilon	1295	7	1277	-	NC_000962.3	4411532	3482723	3483993	1253	1270	60	tp:A:P	cm:i:126	s1:i:1253	s2:i:0	dv:f:0.0004	rl:i:0
+NODE_57_length_1086_cov_123.358875_pilon_pilon_pilon_pilon	1086	5	309	-	NC_000962.3	4411532	1480718	1481022	92	304	60	tp:A:P	cm:i:8	s1:i:92	s2:i:0	dv:f:0.0062	rl:i:0
+NODE_58_length_1070_cov_123.313300_pilon_pilon_pilon_pilon	1070	16	1057	-	NC_000962.3	4411532	3378361	3379402	1041	1041	60	tp:A:P	cm:i:104	s1:i:1041	s2:i:0	dv:f:0.0005	rl:i:0
+NODE_59_length_1031_cov_262.173156_pilon_pilon_pilon_pilon	1031	8	1014	-	NC_000962.3	4411532	3753347	3754353	1006	1006	0	tp:A:P	cm:i:99	s1:i:1006	s2:i:1006	dv:f:0.0005	rl:i:0
+NODE_59_length_1031_cov_262.173156_pilon_pilon_pilon_pilon	1031	8	1014	-	NC_000962.3	4411532	4318357	4319363	1006	1006	0	tp:A:S	cm:i:99	s1:i:1006	dv:f:0.0005	rl:i:0
+NODE_60_length_979_cov_261.420996_pilon_pilon_pilon_pilon	979	34	966	-	NC_000962.3	4411532	1164584	1165516	932	932	0	tp:A:P	cm:i:90	s1:i:932	s2:i:932	dv:f:0.0012	rl:i:0
+NODE_60_length_979_cov_261.420996_pilon_pilon_pilon_pilon	979	34	966	+	NC_000962.3	4411532	1277875	1278807	932	932	0	tp:A:S	cm:i:90	s1:i:932	dv:f:0.0012	rl:i:0
+NODE_61_length_923_cov_266.493088_pilon_pilon_pilon_pilon	923	1	909	-	NC_000962.3	4411532	2305279	2306187	908	908	0	tp:A:P	cm:i:92	s1:i:908	s2:i:908	dv:f:0.0006	rl:i:0
+NODE_61_length_923_cov_266.493088_pilon_pilon_pilon_pilon	923	1	909	-	NC_000962.3	4411532	2299210	2300118	908	908	0	tp:A:S	cm:i:92	s1:i:908	dv:f:0.0006	rl:i:0
+NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon	909	0	902	+	NC_000962.3	4411532	3481325	3482227	902	902	0	tp:A:P	cm:i:83	s1:i:902	s2:i:902	dv:f:0.0006	rl:i:0
+NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon	909	0	902	-	NC_000962.3	4411532	3381845	3382747	902	902	0	tp:A:S	cm:i:83	s1:i:902	dv:f:0.0006	rl:i:0
+NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon	909	0	902	+	NC_000962.3	4411532	1169297	1170199	902	902	0	tp:A:S	cm:i:83	s1:i:902	dv:f:0.0006	rl:i:0
+NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon	909	0	902	+	NC_000962.3	4411532	2982945	2983847	881	902	0	tp:A:S	cm:i:79	s1:i:881	dv:f:0.0032	rl:i:0
+NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon	909	0	902	-	NC_000962.3	4411532	1341828	1342730	854	902	0	tp:A:S	cm:i:77	s1:i:854	dv:f:0.0046	rl:i:0
+NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon	909	0	902	-	NC_000962.3	4411532	2829026	2829928	854	902	0	tp:A:S	cm:i:77	s1:i:854	dv:f:0.0046	rl:i:0
+NODE_63_length_897_cov_146.484561_pilon_pilon_pilon_pilon	897	17	891	+	NC_000962.3	4411532	3731422	3732296	874	874	60	tp:A:P	cm:i:86	s1:i:874	s2:i:196	dv:f:0.0006	rl:i:0
+NODE_64_length_889_cov_269.326139_pilon_pilon_pilon_pilon	889	12	886	+	NC_000962.3	4411532	908192	909066	874	874	0	tp:A:P	cm:i:90	s1:i:874	s2:i:874	dv:f:0.0006	rl:i:0
+NODE_64_length_889_cov_269.326139_pilon_pilon_pilon_pilon	889	12	886	-	NC_000962.3	4411532	3484225	3485099	874	874	0	tp:A:S	cm:i:90	s1:i:874	dv:f:0.0006	rl:i:0
+NODE_66_length_791_cov_251.222826_pilon_pilon_pilon_pilon	791	3	778	+	NC_000962.3	4411532	1276941	1277716	775	775	0	tp:A:P	cm:i:77	s1:i:775	s2:i:775	dv:f:0.0007	rl:i:0
+NODE_66_length_791_cov_251.222826_pilon_pilon_pilon_pilon	791	3	778	-	NC_000962.3	4411532	2195936	2196711	775	775	0	tp:A:S	cm:i:77	s1:i:775	dv:f:0.0007	rl:i:0
+NODE_67_length_780_cov_187.266207_pilon_pilon_pilon_pilon	780	13	771	-	NC_000962.3	4411532	3379372	3380130	650	758	60	tp:A:P	cm:i:62	s1:i:650	s2:i:356	dv:f:0.0008	rl:i:0
+NODE_68_length_754_cov_263.464950_pilon_pilon_pilon_pilon	754	3	629	-	NC_000962.3	4411532	890381	891007	618	626	5	tp:A:P	cm:i:64	s1:i:618	s2:i:604	dv:f:0.0008	rl:i:0
+NODE_68_length_754_cov_263.464950_pilon_pilon_pilon_pilon	754	3	629	-	NC_000962.3	4411532	3711742	3712368	604	626	0	tp:A:S	cm:i:60	s1:i:604	dv:f:0.0042	rl:i:0
+NODE_68_length_754_cov_263.464950_pilon_pilon_pilon_pilon	754	639	753	-	NC_000962.3	4411532	888898	889012	114	114	60	tp:A:P	cm:i:10	s1:i:114	s2:i:0	dv:f:0.0095	rl:i:0
+NODE_69_length_719_cov_107.980422_pilon_pilon_pilon_pilon	719	7	716	-	NC_000962.3	4411532	3931289	3931998	709	709	8	tp:A:P	cm:i:70	s1:i:709	s2:i:687	dv:f:0.0007	rl:i:0
+NODE_69_length_719_cov_107.980422_pilon_pilon_pilon_pilon	719	7	716	-	NC_000962.3	4411532	3946078	3946787	687	709	0	tp:A:S	cm:i:68	s1:i:687	dv:f:0.0023	rl:i:0
+NODE_70_length_713_cov_125.284195_pilon_pilon_pilon_pilon	713	1	696	+	NC_000962.3	4411532	3380654	3381349	681	695	60	tp:A:P	cm:i:69	s1:i:681	s2:i:93	dv:f:0.0008	rl:i:0
+NODE_71_length_701_cov_126.517028_pilon_pilon_pilon_pilon	701	12	696	-	NC_000962.3	4411532	2866518	2867202	684	684	60	tp:A:P	cm:i:66	s1:i:684	s2:i:132	dv:f:0.0008	rl:i:0
+NODE_72_length_621_cov_267.376325_pilon_pilon_pilon_pilon	621	7	612	+	NC_000962.3	4411532	3377655	3378260	605	605	6	tp:A:P	cm:i:58	s1:i:605	s2:i:589	dv:f:0.0009	rl:i:0
+NODE_72_length_621_cov_267.376325_pilon_pilon_pilon_pilon	621	7	612	+	NC_000962.3	4411532	3380095	3380699	589	605	0	tp:A:S	cm:i:55	s1:i:589	dv:f:0.0037	rl:i:0
+NODE_73_length_616_cov_257.335116_pilon_pilon_pilon_pilon	616	2	602	-	NC_000962.3	4411532	2639011	2639611	600	600	60	tp:A:P	cm:i:61	s1:i:600	s2:i:90	dv:f:0.0009	rl:i:0
+NODE_74_length_605_cov_237.776364_pilon_pilon_pilon_pilon	605	5	601	-	NC_000962.3	4411532	3841687	3842283	596	596	51	tp:A:P	cm:i:60	s1:i:596	s2:i:475	dv:f:0.0009	rl:i:0
+NODE_75_length_600_cov_94.682569_pilon_pilon_pilon_pilon	600	3	597	+	NC_000962.3	4411532	3946742	3947327	381	600	0	tp:A:P	cm:i:33	s1:i:374	s2:i:372	dv:f:0.0184	rl:i:0
+NODE_75_length_600_cov_94.682569_pilon_pilon_pilon_pilon	600	59	597	+	NC_000962.3	4411532	3947128	3947678	376	550	0	tp:A:S	cm:i:33	s1:i:372	dv:f:0.0162	rl:i:0
+NODE_75_length_600_cov_94.682569_pilon_pilon_pilon_pilon	600	59	597	+	NC_000962.3	4411532	3947479	3948269	350	790	0	tp:A:S	cm:i:30	s1:i:306	dv:f:0.0211	rl:i:0
+NODE_76_length_575_cov_162.030769_pilon_pilon_pilon_pilon	575	9	569	+	NC_000962.3	4411532	1532730	1533290	549	560	60	tp:A:P	cm:i:50	s1:i:549	s2:i:259	dv:f:0.0021	rl:i:0
+NODE_78_length_568_cov_419.452242_pilon_pilon_pilon_pilon	568	17	550	-	NC_000962.3	4411532	3941242	3941776	508	543	60	tp:A:P	cm:i:55	s1:i:502	s2:i:344	dv:f:0.0046	rl:i:28
+NODE_83_length_488_cov_134.371824_pilon_pilon_pilon_pilon	488	13	480	-	NC_000962.3	4411532	3377223	3377690	467	467	60	tp:A:P	cm:i:45	s1:i:467	s2:i:152	dv:f:0.0012	rl:i:0
+NODE_85_length_485_cov_256.000000_pilon_pilon_pilon_pilon	485	5	473	-	NC_000962.3	4411532	1481197	1481665	468	468	60	tp:A:P	cm:i:46	s1:i:468	s2:i:0	dv:f:0.0011	rl:i:0
+NODE_86_length_484_cov_220.104895_pilon_pilon_pilon_pilon	484	30	479	-	NC_000962.3	4411532	3934884	3935333	449	449	0	tp:A:P	cm:i:39	s1:i:449	s2:i:449	dv:f:0.0026	rl:i:0
+NODE_86_length_484_cov_220.104895_pilon_pilon_pilon_pilon	484	30	479	-	NC_000962.3	4411532	3935499	3935948	449	449	0	tp:A:S	cm:i:39	s1:i:449	dv:f:0.0026	rl:i:0
+NODE_87_length_483_cov_361.322430_pilon_pilon_pilon_pilon	483	2	482	+	NC_000962.3	4411532	104285	104765	466	480	0	tp:A:P	cm:i:45	s1:i:466	s2:i:466	dv:f:0.0012	rl:i:0
+NODE_87_length_483_cov_361.322430_pilon_pilon_pilon_pilon	483	2	482	-	NC_000962.3	4411532	3883861	3884341	466	480	0	tp:A:S	cm:i:45	s1:i:466	dv:f:0.0012	rl:i:0
+NODE_87_length_483_cov_361.322430_pilon_pilon_pilon_pilon	483	2	482	+	NC_000962.3	4411532	1789019	1789499	466	480	0	tp:A:S	cm:i:45	s1:i:466	dv:f:0.0012	rl:i:0
+NODE_90_length_467_cov_131.351942_pilon_pilon_pilon_pilon	467	10	456	+	NC_000962.3	4411532	2636983	2637429	446	446	60	tp:A:P	cm:i:46	s1:i:446	s2:i:107	dv:f:0.0011	rl:i:0
+NODE_102_length_379_cov_398.783951_pilon_pilon_pilon_pilon	379	2	370	-	NC_000962.3	4411532	1788639	1789007	368	368	0	tp:A:P	cm:i:43	s1:i:368	s2:i:368	dv:f:0.0012	rl:i:0
+NODE_102_length_379_cov_398.783951_pilon_pilon_pilon_pilon	379	2	370	+	NC_000962.3	4411532	3884353	3884721	368	368	0	tp:A:S	cm:i:43	s1:i:368	dv:f:0.0012	rl:i:0
+NODE_102_length_379_cov_398.783951_pilon_pilon_pilon_pilon	379	2	370	-	NC_000962.3	4411532	103905	104273	368	368	0	tp:A:S	cm:i:43	s1:i:368	dv:f:0.0012	rl:i:0
+NODE_103_length_371_cov_3.240506_pilon_pilon_pilon_pilon	371	22	366	-	NC_000962.3	4411532	335118	335462	344	344	60	tp:A:P	cm:i:30	s1:i:344	s2:i:0	dv:f:0.0034	rl:i:0
+NODE_109_length_346_cov_1.405498_pilon_pilon_pilon_pilon	346	5	338	+	NC_000962.3	4411532	3969779	3970112	333	333	60	tp:A:P	cm:i:28	s1:i:333	s2:i:0	dv:f:0.0018	rl:i:0
+NODE_112_length_338_cov_148.095406_pilon_pilon_pilon_pilon	338	6	329	+	NC_000962.3	4411532	3895005	3895328	323	323	60	tp:A:P	cm:i:29	s1:i:323	s2:i:131	dv:f:0.0018	rl:i:0
+NODE_119_length_325_cov_157.303704_pilon_pilon_pilon_pilon	325	0	316	-	NC_000962.3	4411532	3752714	3753030	316	316	60	tp:A:P	cm:i:29	s1:i:316	s2:i:158	dv:f:0.0018	rl:i:0
+NODE_121_length_316_cov_135.444444_pilon_pilon_pilon_pilon	316	6	311	+	NC_000962.3	4411532	3894628	3894933	305	305	60	tp:A:P	cm:i:26	s1:i:305	s2:i:182	dv:f:0.0020	rl:i:0
+NODE_122_length_316_cov_1.425287_pilon_pilon_pilon_pilon	316	59	306	-	NC_000962.3	4411532	1472794	1473040	57	248	13	tp:A:P	cm:i:3	s1:i:56	s2:i:0	dv:f:0.0265	rl:i:0
+NODE_134_length_290_cov_119.182979_pilon_pilon_pilon_pilon	290	4	288	+	NC_000962.3	4411532	3945546	3945830	284	284	60	tp:A:P	cm:i:27	s1:i:284	s2:i:43	dv:f:0.0019	rl:i:0
+NODE_145_length_278_cov_136.219731_pilon_pilon_pilon_pilon	278	6	260	-	NC_000962.3	4411532	2196677	2196931	254	254	60	tp:A:P	cm:i:23	s1:i:254	s2:i:95	dv:f:0.0022	rl:i:0
+NODE_151_length_277_cov_137.490991_pilon_pilon_pilon_pilon	277	5	262	+	NC_000962.3	4411532	3753113	3753370	250	257	60	tp:A:P	cm:i:24	s1:i:250	s2:i:45	dv:f:0.0021	rl:i:0
+NODE_155_length_276_cov_1.547511_pilon_pilon_pilon_pilon	276	6	273	-	NC_000962.3	4411532	3969166	3969433	267	267	60	tp:A:P	cm:i:25	s1:i:267	s2:i:0	dv:f:0.0021	rl:i:0
+NODE_368_length_251_cov_66.127551_pilon_pilon_pilon_pilon	251	9	251	+	NC_000962.3	4411532	1637041	1637283	242	242	60	tp:A:P	cm:i:25	s1:i:242	s2:i:149	dv:f:0.0021	rl:i:0
+NODE_471_length_241_cov_1.225806_pilon_pilon_pilon_pilon	241	32	225	-	NC_000962.3	4411532	761917	762110	115	193	60	tp:A:P	cm:i:9	s1:i:115	s2:i:0	dv:f:0.0105	rl:i:0
+NODE_491_length_239_cov_108.478261_pilon_pilon_pilon_pilon	239	9	239	+	NC_000962.3	4411532	1637041	1637283	96	278	43	tp:A:P	cm:i:10	s1:i:78	s2:i:53	dv:f:0.0137	rl:i:0
+NODE_491_length_239_cov_108.478261_pilon_pilon_pilon_pilon	239	134	239	+	NC_000962.3	4411532	1633612	1633681	61	105	0	tp:A:S	cm:i:8	s1:i:53	dv:f:0.0117	rl:i:0
+NODE_541_length_235_cov_1.000000_pilon_pilon_pilon_pilon	235	7	119	-	NC_000962.3	4411532	4364910	4365022	68	112	27	tp:A:P	cm:i:4	s1:i:68	s2:i:0	dv:f:0.0117	rl:i:0
+NODE_554_length_233_cov_1.000000_pilon_pilon_pilon_pilon	233	3	233	+	NC_000962.3	4411532	2820521	2820751	147	230	60	tp:A:P	cm:i:11	s1:i:147	s2:i:0	dv:f:0.0046	rl:i:0
+NODE_573_length_231_cov_1.051136_pilon_pilon_pilon_pilon	231	26	145	-	NC_000962.3	4411532	1745400	1745519	74	119	31	tp:A:P	cm:i:4	s1:i:74	s2:i:0	dv:f:0.0211	rl:i:0
+NODE_574_length_231_cov_1.011364_pilon_pilon_pilon_pilon	231	55	224	-	NC_000962.3	4411532	4358794	4358963	116	169	60	tp:A:P	cm:i:8	s1:i:116	s2:i:0	dv:f:0.0117	rl:i:0
+NODE_586_length_230_cov_1.022857_pilon_pilon_pilon_pilon	230	7	227	-	NC_000962.3	4411532	1001208	1001428	166	220	60	tp:A:P	cm:i:12	s1:i:166	s2:i:0	dv:f:0.0042	rl:i:0
+NODE_587_length_230_cov_1.022857_pilon_pilon_pilon_pilon	230	3	155	-	NC_000962.3	4411532	2276182	2276334	113	152	60	tp:A:P	cm:i:8	s1:i:113	s2:i:0	dv:f:0.0062	rl:i:0
+NODE_599_length_229_cov_1.005747_pilon_pilon_pilon_pilon	229	49	214	+	NC_000962.3	4411532	1125862	1126027	85	165	47	tp:A:P	cm:i:5	s1:i:85	s2:i:0	dv:f:0.0176	rl:i:0
+NODE_600_length_229_cov_1.000000_pilon_pilon_pilon_pilon	229	10	229	-	NC_000962.3	4411532	1619854	1620073	116	219	60	tp:A:P	cm:i:8	s1:i:116	s2:i:0	dv:f:0.0062	rl:i:0
+NODE_605_length_228_cov_135.502890_pilon_pilon_pilon_pilon	228	17	220	-	NC_000962.3	4411532	2300072	2300275	192	203	60	tp:A:P	cm:i:20	s1:i:192	s2:i:95	dv:f:0.0026	rl:i:0
+NODE_607_length_228_cov_1.335260_pilon_pilon_pilon_pilon	228	0	188	+	NC_000962.3	4411532	202762	202950	102	188	60	tp:A:P	cm:i:7	s1:i:102	s2:i:0	dv:f:0.0070	rl:i:0
+NODE_618_length_228_cov_1.046243_pilon_pilon_pilon_pilon	228	81	185	-	NC_000962.3	4411532	2487921	2488025	64	104	24	tp:A:P	cm:i:4	s1:i:64	s2:i:0	dv:f:0.0211	rl:i:0
+NODE_620_length_228_cov_1.011561_pilon_pilon_pilon_pilon	228	14	142	+	NC_000962.3	4411532	1474886	1475014	96	128	60	tp:A:P	cm:i:7	s1:i:96	s2:i:0	dv:f:0.0070	rl:i:0
+NODE_629_length_227_cov_1.046512_pilon_pilon_pilon_pilon	227	92	214	-	NC_000962.3	4411532	837337	837459	70	122	36	tp:A:P	cm:i:5	s1:i:70	s2:i:0	dv:f:0.0244	rl:i:0
+NODE_631_length_227_cov_1.017442_pilon_pilon_pilon_pilon	227	28	128	-	NC_000962.3	4411532	237518	237618	70	100	36	tp:A:P	cm:i:5	s1:i:70	s2:i:0	dv:f:0.0176	rl:i:0
+NODE_644_length_226_cov_1.005848_pilon_pilon_pilon_pilon	226	15	221	-	NC_000962.3	4411532	2805193	2805399	107	206	60	tp:A:P	cm:i:8	s1:i:107	s2:i:0	dv:f:0.0062	rl:i:0
+NODE_647_length_225_cov_1.094118_pilon_pilon_pilon_pilon	225	57	188	+	NC_000962.3	4411532	95408	95539	106	131	60	tp:A:P	cm:i:8	s1:i:106	s2:i:0	dv:f:0.0117	rl:i:0
+NODE_649_length_225_cov_1.052941_pilon_pilon_pilon_pilon	225	62	194	+	NC_000962.3	4411532	1501969	1502101	97	132	60	tp:A:P	cm:i:7	s1:i:97	s2:i:0	dv:f:0.0131	rl:i:0
+NODE_659_length_224_cov_1.000000_pilon_pilon_pilon_pilon	224	7	157	+	NC_000962.3	4411532	1333417	1333567	78	150	59	tp:A:P	cm:i:7	s1:i:78	s2:i:0	dv:f:0.0070	rl:i:0
+NODE_661_length_223_cov_136.047619_pilon_pilon_pilon_pilon	223	37	216	-	NC_000962.3	4411532	1277681	1277860	179	179	60	tp:A:P	cm:i:17	s1:i:179	s2:i:44	dv:f:0.0058	rl:i:0
+NODE_662_length_223_cov_1.119048_pilon_pilon_pilon_pilon	223	15	222	+	NC_000962.3	4411532	3177160	3177367	132	207	60	tp:A:P	cm:i:10	s1:i:132	s2:i:0	dv:f:0.0050	rl:i:0
+NODE_669_length_223_cov_1.083333_pilon_pilon_pilon_pilon	223	28	207	-	NC_000962.3	4411532	956614	956793	135	179	60	tp:A:P	cm:i:9	s1:i:135	s2:i:0	dv:f:0.0150	rl:i:0
+NODE_671_length_223_cov_1.041667_pilon_pilon_pilon_pilon	223	42	186	-	NC_000962.3	4411532	210707	210851	94	144	60	tp:A:P	cm:i:7	s1:i:94	s2:i:0	dv:f:0.0131	rl:i:0
+NODE_680_length_222_cov_1.065868_pilon_pilon_pilon_pilon	222	34	205	-	NC_000962.3	4411532	4207404	4207575	79	171	43	tp:A:P	cm:i:5	s1:i:79	s2:i:0	dv:f:0.0176	rl:i:0
+NODE_681_length_222_cov_1.011976_pilon_pilon_pilon_pilon	222	2	220	+	NC_000962.3	4411532	3032973	3033191	57	218	14	tp:A:P	cm:i:3	s1:i:57	s2:i:0	dv:f:0.0265	rl:i:0
+NODE_683_length_221_cov_1.156627_pilon_pilon_pilon_pilon	221	0	220	-	NC_000962.3	4411532	907652	907872	120	220	60	tp:A:P	cm:i:9	s1:i:120	s2:i:0	dv:f:0.0055	rl:i:0
+NODE_684_length_221_cov_1.120482_pilon_pilon_pilon_pilon	221	46	210	+	NC_000962.3	4411532	1285844	1286008	78	164	42	tp:A:P	cm:i:5	s1:i:78	s2:i:0	dv:f:0.0176	rl:i:0
+NODE_692_length_221_cov_1.000000_pilon_pilon_pilon_pilon	221	26	212	+	NC_000962.3	4411532	2739741	2739927	126	186	60	tp:A:P	cm:i:8	s1:i:126	s2:i:0	dv:f:0.0117	rl:i:0
+NODE_695_length_220_cov_235.260606_pilon_pilon_pilon_pilon	220	15	210	-	NC_000962.3	4411532	832146	832341	195	195	0	tp:A:P	cm:i:19	s1:i:195	s2:i:195	dv:f:0.0027	rl:i:0
+NODE_695_length_220_cov_235.260606_pilon_pilon_pilon_pilon	220	15	210	-	NC_000962.3	4411532	842121	842316	195	195	0	tp:A:S	cm:i:19	s1:i:195	dv:f:0.0027	rl:i:0
+NODE_696_length_220_cov_108.448485_pilon_pilon_pilon_pilon	220	2	210	-	NC_000962.3	4411532	964628	964836	208	208	60	tp:A:P	cm:i:19	s1:i:208	s2:i:54	dv:f:0.0027	rl:i:0
+NODE_698_length_220_cov_1.303030_pilon_pilon_pilon_pilon	220	45	210	-	NC_000962.3	4411532	1718086	1718251	133	165	60	tp:A:P	cm:i:11	s1:i:133	s2:i:0	dv:f:0.0088	rl:i:0
+NODE_705_length_220_cov_1.084848_pilon_pilon_pilon_pilon	220	68	208	+	NC_000962.3	4411532	415573	415713	92	140	60	tp:A:P	cm:i:6	s1:i:92	s2:i:0	dv:f:0.0150	rl:i:0
+NODE_706_length_220_cov_1.042424_pilon_pilon_pilon_pilon	220	7	197	+	NC_000962.3	4411532	3271187	3271377	96	190	60	tp:A:P	cm:i:7	s1:i:96	s2:i:0	dv:f:0.0070	rl:i:0
+NODE_707_length_220_cov_1.036364_pilon_pilon_pilon_pilon	220	122	192	-	NC_000962.3	4411532	892626	892696	49	70	8	tp:A:P	cm:i:3	s1:i:49	s2:i:0	dv:f:0.0265	rl:i:0
+NODE_708_length_220_cov_1.018182_pilon_pilon_pilon_pilon	220	43	217	+	NC_000962.3	4411532	161873	162047	108	174	60	tp:A:P	cm:i:9	s1:i:108	s2:i:0	dv:f:0.0105	rl:i:0
+NODE_709_length_220_cov_1.006061_pilon_pilon_pilon_pilon	220	100	184	-	NC_000962.3	4411532	672169	672253	50	84	9	tp:A:P	cm:i:3	s1:i:50	s2:i:0	dv:f:0.0265	rl:i:0
+NODE_711_length_220_cov_0.909091_pilon_pilon_pilon_pilon	220	92	217	+	NC_000962.3	4411532	2814607	2814732	57	125	14	tp:A:P	cm:i:3	s1:i:57	s2:i:0	dv:f:0.0265	rl:i:0
+NODE_716_length_219_cov_1.079268_pilon_pilon_pilon_pilon	219	43	182	+	NC_000962.3	4411532	1863828	1863967	114	139	60	tp:A:P	cm:i:8	s1:i:114	s2:i:0	dv:f:0.0117	rl:i:0
+NODE_717_length_219_cov_1.073171_pilon_pilon_pilon_pilon	219	27	206	+	NC_000962.3	4411532	2783534	2783713	133	179	60	tp:A:P	cm:i:15	s1:i:133	s2:i:0	dv:f:0.0066	rl:i:0
+NODE_727_length_218_cov_1.141104_pilon_pilon_pilon_pilon	218	20	135	+	NC_000962.3	4411532	424491	424606	79	115	43	tp:A:P	cm:i:5	s1:i:79	s2:i:0	dv:f:0.0176	rl:i:0
+NODE_732_length_218_cov_1.024540_pilon_pilon_pilon_pilon	218	39	160	-	NC_000962.3	4411532	2589941	2590062	81	121	53	tp:A:P	cm:i:6	s1:i:81	s2:i:0	dv:f:0.0150	rl:i:0
+NODE_739_length_217_cov_1.000000_pilon_pilon_pilon_pilon	217	37	200	-	NC_000962.3	4411532	2443779	2443942	120	163	60	tp:A:P	cm:i:7	s1:i:120	s2:i:0	dv:f:0.0131	rl:i:0
+NODE_741_length_216_cov_3.428571_pilon_pilon_pilon_pilon	216	13	200	-	NC_000962.3	4411532	334765	334952	187	187	60	tp:A:P	cm:i:19	s1:i:187	s2:i:0	dv:f:0.0027	rl:i:0
+NODE_747_length_216_cov_1.155280_pilon_pilon_pilon_pilon	216	3	214	-	NC_000962.3	4411532	3829906	3830117	119	211	60	tp:A:P	cm:i:8	s1:i:119	s2:i:0	dv:f:0.0062	rl:i:0
+NODE_749_length_216_cov_1.155280_pilon_pilon_pilon_pilon	216	2	187	+	NC_000962.3	4411532	1670175	1670360	123	185	60	tp:A:P	cm:i:10	s1:i:123	s2:i:0	dv:f:0.0050	rl:i:0
+NODE_750_length_216_cov_1.055901_pilon_pilon_pilon_pilon	216	122	177	-	NC_000962.3	4411532	672074	672129	44	55	4	tp:A:P	cm:i:3	s1:i:44	s2:i:0	dv:f:0.0265	rl:i:0
+NODE_760_length_215_cov_1.062500_pilon_pilon_pilon_pilon	215	18	211	-	NC_000962.3	4411532	2513005	2513198	114	193	60	tp:A:P	cm:i:7	s1:i:114	s2:i:0	dv:f:0.0070	rl:i:0
+NODE_767_length_214_cov_1.000000_pilon_pilon_pilon_pilon	214	64	181	+	NC_000962.3	4411532	3116295	3116412	97	117	60	tp:A:P	cm:i:6	s1:i:97	s2:i:0	dv:f:0.0150	rl:i:0
+NODE_776_length_213_cov_1.031646_pilon_pilon_pilon_pilon	213	12	170	-	NC_000962.3	4411532	341607	341765	67	158	27	tp:A:P	cm:i:4	s1:i:67	s2:i:0	dv:f:0.0117	rl:i:0
+NODE_791_length_211_cov_1.147436_pilon_pilon_pilon_pilon	211	30	208	-	NC_000962.3	4411532	557622	557800	136	178	60	tp:A:P	cm:i:11	s1:i:136	s2:i:0	dv:f:0.0088	rl:i:0
+NODE_792_length_211_cov_1.064103_pilon_pilon_pilon_pilon	211	8	202	-	NC_000962.3	4411532	3548417	3548611	103	194	60	tp:A:P	cm:i:8	s1:i:103	s2:i:0	dv:f:0.0062	rl:i:0
+NODE_802_length_210_cov_1.070968_pilon_pilon_pilon_pilon	210	21	141	-	NC_000962.3	4411532	467659	467779	94	120	60	tp:A:P	cm:i:6	s1:i:94	s2:i:0	dv:f:0.0150	rl:i:0
+NODE_803_length_210_cov_1.025806_pilon_pilon_pilon_pilon	210	10	195	+	NC_000962.3	4411532	2231696	2231881	106	185	60	tp:A:P	cm:i:7	s1:i:106	s2:i:0	dv:f:0.0070	rl:i:0
+NODE_804_length_210_cov_1.000000_pilon_pilon_pilon_pilon	210	11	158	-	NC_000962.3	4411532	146329	146476	71	147	29	tp:A:P	cm:i:4	s1:i:71	s2:i:0	dv:f:0.0117	rl:i:0
+NODE_815_length_209_cov_1.045455_pilon_pilon_pilon_pilon	209	95	206	+	NC_000962.3	4411532	2137091	2137202	71	111	37	tp:A:P	cm:i:5	s1:i:71	s2:i:0	dv:f:0.0176	rl:i:0
+NODE_816_length_209_cov_1.006494_pilon_pilon_pilon_pilon	209	14	182	-	NC_000962.3	4411532	2869257	2869425	104	168	60	tp:A:P	cm:i:7	s1:i:104	s2:i:0	dv:f:0.0070	rl:i:0
+NODE_817_length_209_cov_1.000000_pilon_pilon_pilon_pilon	209	64	206	-	NC_000962.3	4411532	3952864	3953006	82	142	60	tp:A:P	cm:i:7	s1:i:82	s2:i:0	dv:f:0.0131	rl:i:0
+NODE_842_length_207_cov_1.171053_pilon_pilon_pilon_pilon	207	30	151	-	NC_000962.3	4411532	449919	450040	81	121	53	tp:A:P	cm:i:6	s1:i:81	s2:i:0	dv:f:0.0150	rl:i:0
+NODE_844_length_207_cov_1.125000_pilon_pilon_pilon_pilon	207	9	172	+	NC_000962.3	4411532	2336689	2336852	95	163	60	tp:A:P	cm:i:7	s1:i:95	s2:i:0	dv:f:0.0070	rl:i:0
+NODE_845_length_207_cov_1.085526_pilon_pilon_pilon_pilon	207	5	206	+	NC_000962.3	4411532	3315455	3315656	147	201	60	tp:A:P	cm:i:10	s1:i:147	s2:i:0	dv:f:0.0050	rl:i:0
+NODE_846_length_207_cov_1.072368_pilon_pilon_pilon_pilon	207	68	184	+	NC_000962.3	4411532	3719868	3719984	90	116	60	tp:A:P	cm:i:7	s1:i:90	s2:i:0	dv:f:0.0131	rl:i:0
+NODE_863_length_206_cov_1.152318_pilon_pilon_pilon_pilon	206	2	193	+	NC_000962.3	4411532	3968954	3969145	171	191	60	tp:A:P	cm:i:13	s1:i:171	s2:i:0	dv:f:0.0039	rl:i:0
+NODE_864_length_206_cov_1.079470_pilon_pilon_pilon_pilon	206	11	184	+	NC_000962.3	4411532	3379802	3379975	81	173	53	tp:A:P	cm:i:6	s1:i:81	s2:i:0	dv:f:0.0081	rl:i:0
+NODE_867_length_198_cov_132.216783_pilon_pilon_pilon_pilon	198	38	191	-	NC_000962.3	4411532	1634474	1634627	153	153	60	tp:A:P	cm:i:14	s1:i:153	s2:i:98	dv:f:0.0070	rl:i:0
+NODE_869_length_193_cov_105.811594_pilon_pilon_pilon_pilon	193	1	177	-	NC_000962.3	4411532	1093544	1093720	176	176	60	tp:A:P	cm:i:16	s1:i:176	s2:i:85	dv:f:0.0032	rl:i:0
+NODE_870_length_183_cov_75.437500_pilon_pilon_pilon_pilon	183	1	180	+	NC_000962.3	4411532	3947499	3947678	179	179	0	tp:A:P	cm:i:18	s1:i:179	s2:i:179	dv:f:0.0028	rl:i:0
+NODE_870_length_183_cov_75.437500_pilon_pilon_pilon_pilon	183	1	180	+	NC_000962.3	4411532	3948090	3948269	179	179	0	tp:A:S	cm:i:18	s1:i:179	dv:f:0.0028	rl:i:0
+NODE_870_length_183_cov_75.437500_pilon_pilon_pilon_pilon	183	1	180	+	NC_000962.3	4411532	3947148	3947327	170	179	0	tp:A:S	cm:i:14	s1:i:170	dv:f:0.0159	rl:i:0
+NODE_870_length_183_cov_75.437500_pilon_pilon_pilon_pilon	183	1	152	+	NC_000962.3	4411532	3947850	3948001	151	151	0	tp:A:S	cm:i:15	s1:i:151	dv:f:0.0034	rl:i:0
+NODE_871_length_179_cov_149.500000_pilon_pilon_pilon_pilon	179	7	176	+	NC_000962.3	4411532	2300335	2300504	169	169	60	tp:A:P	cm:i:18	s1:i:169	s2:i:74	dv:f:0.0028	rl:i:0
+NODE_873_length_173_cov_135.211864_pilon_pilon_pilon_pilon	173	7	172	-	NC_000962.3	4411532	3378215	3378380	165	165	60	tp:A:P	cm:i:17	s1:i:165	s2:i:78	dv:f:0.0030	rl:i:0
+NODE_875_length_171_cov_232.491379_pilon_pilon_pilon_pilon	171	14	164	-	NC_000962.3	4411532	3884682	3884832	88	150	0	tp:A:P	cm:i:6	s1:i:88	s2:i:88	dv:f:0.0081	rl:i:0
+NODE_875_length_171_cov_232.491379_pilon_pilon_pilon_pilon	171	14	164	+	NC_000962.3	4411532	103794	103944	88	150	0	tp:A:S	cm:i:6	s1:i:88	dv:f:0.0081	rl:i:0
+NODE_875_length_171_cov_232.491379_pilon_pilon_pilon_pilon	171	14	164	+	NC_000962.3	4411532	1788528	1788678	88	150	0	tp:A:S	cm:i:6	s1:i:88	dv:f:0.0081	rl:i:0
+NODE_876_length_171_cov_124.905172_pilon_pilon_pilon_pilon	171	14	164	+	NC_000962.3	4411532	103794	103944	150	150	0	tp:A:P	cm:i:13	s1:i:150	s2:i:150	dv:f:0.0039	rl:i:0
+NODE_876_length_171_cov_124.905172_pilon_pilon_pilon_pilon	171	14	164	+	NC_000962.3	4411532	1788528	1788678	150	150	0	tp:A:S	cm:i:13	s1:i:150	dv:f:0.0039	rl:i:0
+NODE_876_length_171_cov_124.905172_pilon_pilon_pilon_pilon	171	14	164	-	NC_000962.3	4411532	3884682	3884832	150	150	0	tp:A:S	cm:i:13	s1:i:150	dv:f:0.0039	rl:i:0
+NODE_878_length_163_cov_251.953704_pilon_pilon_pilon_pilon	163	8	157	-	NC_000962.3	4411532	3735763	3735912	149	149	51	tp:A:P	cm:i:14	s1:i:149	s2:i:111	dv:f:0.0036	rl:i:0
+NODE_878_length_163_cov_251.953704_pilon_pilon_pilon_pilon	163	8	157	-	NC_000962.3	4411532	3732208	3732357	111	149	0	tp:A:S	cm:i:9	s1:i:111	dv:f:0.0265	rl:i:0
+NODE_878_length_163_cov_251.953704_pilon_pilon_pilon_pilon	163	8	157	-	NC_000962.3	4411532	3730480	3730629	111	149	0	tp:A:S	cm:i:9	s1:i:111	dv:f:0.0265	rl:i:0
+NODE_879_length_160_cov_158.361905_pilon_pilon_pilon_pilon	160	14	159	+	NC_000962.3	4411532	1789474	1789619	145	145	0	tp:A:P	cm:i:16	s1:i:145	s2:i:145	dv:f:0.0032	rl:i:0
+NODE_879_length_160_cov_158.361905_pilon_pilon_pilon_pilon	160	14	159	-	NC_000962.3	4411532	3883741	3883886	145	145	0	tp:A:S	cm:i:16	s1:i:145	dv:f:0.0032	rl:i:0
+NODE_880_length_160_cov_117.552381_pilon_pilon_pilon_pilon	160	14	159	-	NC_000962.3	4411532	3883741	3883886	108	145	0	tp:A:P	cm:i:11	s1:i:108	s2:i:108	dv:f:0.0046	rl:i:0
+NODE_880_length_160_cov_117.552381_pilon_pilon_pilon_pilon	160	14	159	+	NC_000962.3	4411532	1789474	1789619	108	145	0	tp:A:S	cm:i:11	s1:i:108	dv:f:0.0046	rl:i:0
+NODE_881_length_160_cov_80.114286_pilon_pilon_pilon_pilon	160	41	150	-	NC_000962.3	4411532	3820428	3820537	109	109	60	tp:A:P	cm:i:10	s1:i:109	s2:i:0	dv:f:0.0095	rl:i:0
+NODE_882_length_159_cov_108.567308_pilon_pilon_pilon_pilon	159	1	158	+	NC_000962.3	4411532	926031	926188	157	157	60	tp:A:P	cm:i:13	s1:i:157	s2:i:52	dv:f:0.0039	rl:i:0
+NODE_883_length_154_cov_139.575758_pilon_pilon_pilon_pilon	154	11	148	+	NC_000962.3	4411532	3663738	3663911	137	173	60	tp:A:P	cm:i:9	s1:i:129	s2:i:66	dv:f:0.0055	rl:i:0
+NODE_885_length_151_cov_303.010417_pilon_pilon_pilon_pilon	152	9	146	-	NC_000962.3	4411532	3336652	3336789	137	137	14	tp:A:P	cm:i:11	s1:i:137	s2:i:127	dv:f:0.0046	rl:i:0
+NODE_885_length_151_cov_303.010417_pilon_pilon_pilon_pilon	152	9	146	-	NC_000962.3	4411532	3336593	3336730	127	137	0	tp:A:S	cm:i:10	s1:i:127	dv:f:0.0095	rl:i:0
+NODE_885_length_151_cov_303.010417_pilon_pilon_pilon_pilon	152	9	146	-	NC_000962.3	4411532	3336534	3336671	117	137	0	tp:A:S	cm:i:9	s1:i:117	dv:f:0.0150	rl:i:0
+NODE_886_length_151_cov_249.593750_pilon_pilon_pilon_pilon	151	4	140	-	NC_000962.3	4411532	1532550	1532686	136	136	24	tp:A:P	cm:i:14	s1:i:136	s2:i:119	dv:f:0.0036	rl:i:0
+NODE_886_length_151_cov_249.593750_pilon_pilon_pilon_pilon	151	4	140	+	NC_000962.3	4411532	3895372	3895508	119	136	0	tp:A:S	cm:i:12	s1:i:119	dv:f:0.0117	rl:i:0
+NODE_887_length_148_cov_68.924731_pilon_pilon_pilon_pilon	148	7	146	+	NC_000962.3	4411532	1441496	1441635	139	139	60	tp:A:P	cm:i:14	s1:i:139	s2:i:70	dv:f:0.0036	rl:i:0
+NODE_888_length_143_cov_126.352273_pilon_pilon_pilon_pilon	143	30	114	-	NC_000962.3	4411532	1341005	1341089	84	84	12	tp:A:P	cm:i:10	s1:i:84	s2:i:77	dv:f:0.0095	rl:i:0
+NODE_888_length_143_cov_126.352273_pilon_pilon_pilon_pilon	143	17	127	+	NC_000962.3	4411532	1160731	1160841	77	110	0	tp:A:S	cm:i:7	s1:i:77	dv:f:0.0321	rl:i:0
+NODE_888_length_143_cov_126.352273_pilon_pilon_pilon_pilon	143	17	127	+	NC_000962.3	4411532	4060171	4060281	77	110	0	tp:A:S	cm:i:7	s1:i:77	dv:f:0.0321	rl:i:0
+NODE_889_length_139_cov_113.523810_pilon_pilon_pilon_pilon	139	11	130	+	NC_000962.3	4411532	1789605	1789724	119	119	0	tp:A:P	cm:i:10	s1:i:119	s2:i:119	dv:f:0.0050	rl:i:0
+NODE_889_length_139_cov_113.523810_pilon_pilon_pilon_pilon	139	11	130	-	NC_000962.3	4411532	3883636	3883755	119	119	0	tp:A:S	cm:i:10	s1:i:119	dv:f:0.0050	rl:i:0
+NODE_890_length_137_cov_91.573171_pilon_pilon_pilon_pilon	137	10	136	-	NC_000962.3	4411532	964869	964995	126	126	60	tp:A:P	cm:i:12	s1:i:126	s2:i:71	dv:f:0.0042	rl:i:0
+NODE_891_length_134_cov_250.063291_pilon_pilon_pilon_pilon	134	4	127	-	NC_000962.3	4411532	1533497	1533620	97	123	0	tp:A:P	cm:i:8	s1:i:97	s2:i:97	dv:f:0.0062	rl:i:0
+NODE_891_length_134_cov_250.063291_pilon_pilon_pilon_pilon	134	4	127	+	NC_000962.3	4411532	3894438	3894561	97	123	0	tp:A:S	cm:i:8	s1:i:97	dv:f:0.0062	rl:i:0
+NODE_891_length_134_cov_250.063291_pilon_pilon_pilon_pilon	134	4	127	+	NC_000962.3	4411532	1339361	1339484	88	123	0	tp:A:S	cm:i:6	s1:i:88	dv:f:0.0211	rl:i:0
+NODE_892_length_134_cov_150.848101_pilon_pilon_pilon_pilon	134	1	132	-	NC_000962.3	4411532	473835	473966	131	131	41	tp:A:P	cm:i:12	s1:i:131	s2:i:103	dv:f:0.0042	rl:i:0
+NODE_892_length_134_cov_150.848101_pilon_pilon_pilon_pilon	134	1	132	-	NC_000962.3	4411532	475901	476032	103	131	0	tp:A:S	cm:i:9	s1:i:103	dv:f:0.0192	rl:i:0
+NODE_893_length_134_cov_98.822785_pilon_pilon_pilon_pilon	134	3	132	-	NC_000962.3	4411532	3935417	3935546	129	129	0	tp:A:P	cm:i:12	s1:i:129	s2:i:129	dv:f:0.0042	rl:i:0
+NODE_893_length_134_cov_98.822785_pilon_pilon_pilon_pilon	134	3	132	-	NC_000962.3	4411532	3936032	3936161	129	129	0	tp:A:S	cm:i:12	s1:i:129	dv:f:0.0042	rl:i:0
+NODE_894_length_130_cov_115.853333_pilon_pilon_pilon_pilon	130	4	119	-	NC_000962.3	4411532	3941452	3941567	84	115	0	tp:A:P	cm:i:6	s1:i:84	s2:i:81	dv:f:0.0150	rl:i:0
+NODE_894_length_130_cov_115.853333_pilon_pilon_pilon_pilon	130	4	119	-	NC_000962.3	4411532	3941789	3941913	84	124	0	tp:A:S	cm:i:6	s1:i:81	dv:f:0.0150	rl:i:0
+NODE_896_length_123_cov_122.279412_pilon_pilon_pilon_pilon	123	16	110	-	NC_000962.3	4411532	475916	476010	94	94	50	tp:A:P	cm:i:11	s1:i:94	s2:i:66	dv:f:0.0046	rl:i:0
+NODE_896_length_123_cov_122.279412_pilon_pilon_pilon_pilon	123	16	110	-	NC_000962.3	4411532	473850	473944	66	94	0	tp:A:S	cm:i:6	s1:i:66	dv:f:0.0358	rl:i:0
+NODE_897_length_118_cov_273.285714_pilon_pilon_pilon_pilon	118	1	118	-	NC_000962.3	4411532	3884288	3884405	117	117	0	tp:A:P	cm:i:14	s1:i:117	s2:i:117	dv:f:0.0036	rl:i:0
+NODE_897_length_118_cov_273.285714_pilon_pilon_pilon_pilon	118	1	118	+	NC_000962.3	4411532	104221	104338	117	117	0	tp:A:S	cm:i:14	s1:i:117	dv:f:0.0036	rl:i:0
+NODE_897_length_118_cov_273.285714_pilon_pilon_pilon_pilon	118	1	118	+	NC_000962.3	4411532	1788955	1789072	117	117	0	tp:A:S	cm:i:14	s1:i:117	dv:f:0.0036	rl:i:0
+NODE_898_length_118_cov_155.031746_pilon_pilon_pilon_pilon	118	1	118	+	NC_000962.3	4411532	104221	104338	105	117	0	tp:A:P	cm:i:11	s1:i:105	s2:i:105	dv:f:0.0046	rl:i:0
+NODE_898_length_118_cov_155.031746_pilon_pilon_pilon_pilon	118	1	118	-	NC_000962.3	4411532	3884288	3884405	105	117	0	tp:A:S	cm:i:11	s1:i:105	dv:f:0.0046	rl:i:0
+NODE_898_length_118_cov_155.031746_pilon_pilon_pilon_pilon	118	1	118	+	NC_000962.3	4411532	1788955	1789072	105	117	0	tp:A:S	cm:i:11	s1:i:105	dv:f:0.0046	rl:i:0
+NODE_899_length_117_cov_143.645161_pilon_pilon_pilon_pilon	117	4	117	+	NC_000962.3	4411532	2196912	2197025	113	113	15	tp:A:P	cm:i:11	s1:i:113	s2:i:104	dv:f:0.0046	rl:i:0
+NODE_899_length_117_cov_143.645161_pilon_pilon_pilon_pilon	117	4	117	-	NC_000962.3	4411532	1276627	1276740	104	113	0	tp:A:S	cm:i:9	s1:i:104	dv:f:0.0150	rl:i:0
+NODE_900_length_117_cov_128.645161_pilon_pilon_pilon_pilon	117	18	116	-	NC_000962.3	4411532	1341234	1341332	98	98	60	tp:A:P	cm:i:8	s1:i:98	s2:i:0	dv:f:0.0062	rl:i:0
+NODE_901_length_115_cov_255.066667_pilon_pilon_pilon_pilon	115	15	106	+	NC_000962.3	4411532	1532676	1532767	91	91	0	tp:A:P	cm:i:7	s1:i:91	s2:i:91	dv:f:0.0070	rl:i:0
+NODE_901_length_115_cov_255.066667_pilon_pilon_pilon_pilon	115	15	106	-	NC_000962.3	4411532	3895291	3895382	91	91	0	tp:A:S	cm:i:7	s1:i:91	dv:f:0.0070	rl:i:0
+NODE_902_length_113_cov_111.896552_pilon_pilon_pilon_pilon	113	9	105	-	NC_000962.3	4411532	104893	104989	58	96	20	tp:A:P	cm:i:4	s1:i:58	s2:i:40	dv:f:0.0290	rl:i:0
+NODE_902_length_113_cov_111.896552_pilon_pilon_pilon_pilon	113	9	49	-	NC_000962.3	4411532	1789684	1789724	40	40	0	tp:A:S	cm:i:3	s1:i:40	dv:f:0.0150	rl:i:0
+NODE_902_length_113_cov_111.896552_pilon_pilon_pilon_pilon	113	9	49	+	NC_000962.3	4411532	3883636	3883676	40	40	0	tp:A:S	cm:i:3	s1:i:40	dv:f:0.0150	rl:i:0
+NODE_903_length_111_cov_238.357143_pilon_pilon_pilon_pilon	111	5	106	-	NC_000962.3	4411532	3730845	3730946	101	101	16	tp:A:P	cm:i:7	s1:i:101	s2:i:88	dv:f:0.0070	rl:i:0
+NODE_903_length_111_cov_238.357143_pilon_pilon_pilon_pilon	111	5	106	-	NC_000962.3	4411532	3736128	3736229	88	101	0	tp:A:S	cm:i:6	s1:i:88	dv:f:0.0150	rl:i:0
+NODE_903_length_111_cov_238.357143_pilon_pilon_pilon_pilon	111	34	106	-	NC_000962.3	4411532	3732573	3732645	72	72	0	tp:A:S	cm:i:5	s1:i:72	dv:f:0.0176	rl:i:0
+NODE_905_length_111_cov_165.160714_pilon_pilon_pilon_pilon	111	7	104	+	NC_000962.3	4411532	3484173	3484270	95	97	0	tp:A:P	cm:i:8	s1:i:95	s2:i:95	dv:f:0.0062	rl:i:0
+NODE_905_length_111_cov_165.160714_pilon_pilon_pilon_pilon	111	7	104	-	NC_000962.3	4411532	909021	909118	95	97	0	tp:A:S	cm:i:8	s1:i:95	dv:f:0.0062	rl:i:0
+NODE_906_length_111_cov_152.178571_pilon_pilon_pilon_pilon	111	5	95	+	NC_000962.3	4411532	3950951	3951041	74	90	0	tp:A:P	cm:i:8	s1:i:74	s2:i:74	dv:f:0.0062	rl:i:0
+NODE_906_length_111_cov_152.178571_pilon_pilon_pilon_pilon	111	5	95	+	NC_000962.3	4411532	3945219	3945309	74	90	0	tp:A:S	cm:i:8	s1:i:74	dv:f:0.0062	rl:i:0
+NODE_907_length_111_cov_139.964286_pilon_pilon_pilon_pilon	111	3	97	-	NC_000962.3	4411532	3377089	3377183	94	94	0	tp:A:P	cm:i:9	s1:i:94	s2:i:94	dv:f:0.0055	rl:i:0
+NODE_907_length_111_cov_139.964286_pilon_pilon_pilon_pilon	111	3	97	-	NC_000962.3	4411532	3379526	3379620	94	94	0	tp:A:S	cm:i:9	s1:i:94	dv:f:0.0055	rl:i:0
+NODE_908_length_111_cov_133.303571_pilon_pilon_pilon_pilon	111	2	109	-	NC_000962.3	4411532	2372439	2372546	107	107	60	tp:A:P	cm:i:15	s1:i:107	s2:i:50	dv:f:0.0034	rl:i:0
+NODE_909_length_111_cov_127.750000_pilon_pilon_pilon_pilon	111	12	104	-	NC_000962.3	4411532	1634369	1634461	92	92	27	tp:A:P	cm:i:10	s1:i:92	s2:i:77	dv:f:0.0050	rl:i:0
+NODE_909_length_111_cov_127.750000_pilon_pilon_pilon_pilon	111	12	104	-	NC_000962.3	4411532	1637971	1638063	77	92	0	tp:A:S	cm:i:8	s1:i:77	dv:f:0.0166	rl:i:0
+NODE_910_length_111_cov_126.714286_pilon_pilon_pilon_pilon	111	7	97	-	NC_000962.3	4411532	2197023	2197113	90	90	23	tp:A:P	cm:i:7	s1:i:90	s2:i:73	dv:f:0.0070	rl:i:0
+NODE_910_length_111_cov_126.714286_pilon_pilon_pilon_pilon	111	7	97	+	NC_000962.3	4411532	1276539	1276629	73	90	0	tp:A:S	cm:i:5	s1:i:73	dv:f:0.0244	rl:i:0
+NODE_911_length_111_cov_123.410714_pilon_pilon_pilon_pilon	111	5	108	+	NC_000962.3	4411532	1789684	1789787	103	103	37	tp:A:P	cm:i:8	s1:i:103	s2:i:77	dv:f:0.0062	rl:i:0
+NODE_911_length_111_cov_123.410714_pilon_pilon_pilon_pilon	111	5	108	-	NC_000962.3	4411532	3883573	3883676	77	103	0	tp:A:S	cm:i:5	s1:i:77	dv:f:0.0305	rl:i:0
+NODE_912_length_111_cov_122.035714_pilon_pilon_pilon_pilon	111	13	105	-	NC_000962.3	4411532	1481135	1481227	92	92	60	tp:A:P	cm:i:8	s1:i:92	s2:i:0	dv:f:0.0062	rl:i:0
+NODE_913_length_111_cov_113.428571_pilon_pilon_pilon_pilon	111	9	103	+	NC_000962.3	4411532	3712325	3712419	87	94	0	tp:A:P	cm:i:7	s1:i:87	s2:i:87	dv:f:0.0070	rl:i:0
+NODE_913_length_111_cov_113.428571_pilon_pilon_pilon_pilon	111	9	103	+	NC_000962.3	4411532	890964	891058	87	94	0	tp:A:S	cm:i:7	s1:i:87	dv:f:0.0070	rl:i:0
+NODE_914_length_111_cov_104.750000_pilon_pilon_pilon_pilon	111	16	104	+	NC_000962.3	4411532	4053343	4053431	67	88	0	tp:A:P	cm:i:5	s1:i:67	s2:i:67	dv:f:0.0095	rl:i:0
+NODE_914_length_111_cov_104.750000_pilon_pilon_pilon_pilon	111	16	104	+	NC_000962.3	4411532	4053121	4053209	67	88	0	tp:A:S	cm:i:5	s1:i:67	dv:f:0.0095	rl:i:0
+NODE_914_length_111_cov_104.750000_pilon_pilon_pilon_pilon	111	16	104	+	NC_000962.3	4411532	4053454	4053542	67	88	0	tp:A:S	cm:i:5	s1:i:67	dv:f:0.0095	rl:i:0
+NODE_914_length_111_cov_104.750000_pilon_pilon_pilon_pilon	111	16	104	+	NC_000962.3	4411532	4053010	4053098	67	88	0	tp:A:S	cm:i:5	s1:i:67	dv:f:0.0095	rl:i:0
+NODE_914_length_111_cov_104.750000_pilon_pilon_pilon_pilon	111	16	104	+	NC_000962.3	4411532	4053232	4053320	67	88	0	tp:A:S	cm:i:5	s1:i:67	dv:f:0.0095	rl:i:0
+NODE_915_length_111_cov_104.232143_pilon_pilon_pilon_pilon	111	3	106	+	NC_000962.3	4411532	3883573	3883676	103	103	46	tp:A:P	cm:i:10	s1:i:103	s2:i:77	dv:f:0.0050	rl:i:0
+NODE_915_length_111_cov_104.232143_pilon_pilon_pilon_pilon	111	3	106	-	NC_000962.3	4411532	1789684	1789787	77	103	0	tp:A:S	cm:i:5	s1:i:77	dv:f:0.0406	rl:i:0
+NODE_916_length_111_cov_104.053571_pilon_pilon_pilon_pilon	111	6	95	+	NC_000962.3	4411532	3946025	3946114	89	89	0	tp:A:P	cm:i:7	s1:i:89	s2:i:89	dv:f:0.0070	rl:i:0
+NODE_916_length_111_cov_104.053571_pilon_pilon_pilon_pilon	111	6	95	+	NC_000962.3	4411532	3931236	3931325	89	89	0	tp:A:S	cm:i:7	s1:i:89	dv:f:0.0070	rl:i:0
+NODE_918_length_109_cov_124.518519_pilon_pilon_pilon_pilon	109	16	91	-	NC_000962.3	4411532	3594306	3594381	75	75	2	tp:A:P	cm:i:5	s1:i:75	s2:i:73	dv:f:0.0095	rl:i:0
+NODE_918_length_109_cov_124.518519_pilon_pilon_pilon_pilon	109	16	91	-	NC_000962.3	4411532	3594362	3594437	73	75	0	tp:A:S	cm:i:4	s1:i:73	dv:f:0.0211	rl:i:0
+NODE_919_length_108_cov_149.169811_pilon_pilon_pilon_pilon	108	4	49	+	NC_000962.3	4411532	888854	888899	45	45	6	tp:A:P	cm:i:4	s1:i:45	s2:i:0	dv:f:0.0117	rl:i:0
+NODE_920_length_108_cov_122.924528_pilon_pilon_pilon_pilon	108	15	108	+	NC_000962.3	4411532	3594362	3594455	93	93	2	tp:A:P	cm:i:6	s1:i:93	s2:i:91	dv:f:0.0081	rl:i:0
+NODE_920_length_108_cov_122.924528_pilon_pilon_pilon_pilon	108	15	108	+	NC_000962.3	4411532	3594306	3594399	91	93	0	tp:A:S	cm:i:5	s1:i:91	dv:f:0.0176	rl:i:0
+NODE_921_length_108_cov_2.641509_pilon_pilon_pilon_pilon	108	1	94	-	NC_000962.3	4411532	3007043	3007136	87	93	0	tp:A:P	cm:i:9	s1:i:87	s2:i:87	dv:f:0.0055	rl:i:0
+NODE_921_length_108_cov_2.641509_pilon_pilon_pilon_pilon	108	1	94	-	NC_000962.3	4411532	3007096	3007189	87	93	0	tp:A:S	cm:i:9	s1:i:87	dv:f:0.0055	rl:i:0
+NODE_921_length_108_cov_2.641509_pilon_pilon_pilon_pilon	108	29	94	-	NC_000962.3	4411532	3007149	3007214	59	65	0	tp:A:S	cm:i:5	s1:i:59	dv:f:0.0176	rl:i:0
+NODE_922_length_106_cov_117.529412_pilon_pilon_pilon_pilon	106	7	54	-	NC_000962.3	4411532	888898	888945	47	47	9	tp:A:P	cm:i:4	s1:i:47	s2:i:0	dv:f:0.0117	rl:i:0
+NODE_923_length_106_cov_91.333333_pilon_pilon_pilon_pilon	106	10	99	+	NC_000962.3	4411532	1907474	1907563	89	89	60	tp:A:P	cm:i:7	s1:i:89	s2:i:45	dv:f:0.0070	rl:i:0
+NODE_924_length_106_cov_1.372549_pilon_pilon_pilon_pilon	106	20	105	+	NC_000962.3	4411532	2996035	2996120	68	85	14	tp:A:P	cm:i:4	s1:i:68	s2:i:53	dv:f:0.0290	rl:i:0
+NODE_924_length_106_cov_1.372549_pilon_pilon_pilon_pilon	106	20	90	+	NC_000962.3	4411532	2996086	2996156	53	70	0	tp:A:S	cm:i:3	s1:i:53	dv:f:0.0358	rl:i:0
+NODE_926_length_103_cov_182.916667_pilon_pilon_pilon_pilon	103	18	91	-	NC_000962.3	4411532	1644265	1644338	73	73	54	tp:A:P	cm:i:7	s1:i:73	s2:i:40	dv:f:0.0070	rl:i:0
+NODE_926_length_103_cov_182.916667_pilon_pilon_pilon_pilon	103	18	91	-	NC_000962.3	4411532	2531902	2531975	40	73	0	tp:A:S	cm:i:4	s1:i:40	dv:f:0.0358	rl:i:0
+NODE_927_length_103_cov_126.666667_pilon_pilon_pilon_pilon	103	16	102	-	NC_000962.3	4411532	3941402	3941479	64	86	0	tp:A:P	cm:i:4	s1:i:61	s2:i:61	dv:f:0.0211	rl:i:0
+NODE_927_length_103_cov_126.666667_pilon_pilon_pilon_pilon	103	16	102	-	NC_000962.3	4411532	3941739	3941816	64	86	0	tp:A:S	cm:i:4	s1:i:61	dv:f:0.0211	rl:i:0
+NODE_928_length_103_cov_61.541667_pilon_pilon_pilon_pilon	103	48	96	+	NC_000962.3	4411532	3120520	3120568	48	48	0	tp:A:P	cm:i:4	s1:i:48	s2:i:48	dv:f:0.0211	rl:i:0
+NODE_928_length_103_cov_61.541667_pilon_pilon_pilon_pilon	103	48	96	+	NC_000962.3	4411532	2430113	2430161	48	48	0	tp:A:S	cm:i:4	s1:i:48	dv:f:0.0211	rl:i:0
+NODE_928_length_103_cov_61.541667_pilon_pilon_pilon_pilon	103	2	48	+	NC_000962.3	4411532	1982097	1982143	46	46	7	tp:A:P	cm:i:4	s1:i:46	s2:i:40	dv:f:0.0117	rl:i:0
+NODE_928_length_103_cov_61.541667_pilon_pilon_pilon_pilon	103	8	48	+	NC_000962.3	4411532	1982028	1982068	40	40	0	tp:A:S	cm:i:3	s1:i:40	dv:f:0.0150	rl:i:0
+NODE_929_length_102_cov_129.531915_pilon_pilon_pilon_pilon	102	14	97	-	NC_000962.3	4411532	2461397	2461480	83	83	0	tp:A:P	cm:i:10	s1:i:83	s2:i:83	dv:f:0.0050	rl:i:0
+NODE_929_length_102_cov_129.531915_pilon_pilon_pilon_pilon	102	14	97	-	NC_000962.3	4411532	2461340	2461423	83	83	0	tp:A:S	cm:i:10	s1:i:83	dv:f:0.0050	rl:i:0
+NODE_930_length_102_cov_92.170213_pilon_pilon_pilon_pilon	102	14	78	-	NC_000962.3	4411532	2163380	2163444	64	64	31	tp:A:P	cm:i:5	s1:i:64	s2:i:0	dv:f:0.0095	rl:i:0
+NODE_931_length_101_cov_124.239130_pilon_pilon_pilon_pilon	101	15	91	+	NC_000962.3	4411532	4120942	4121018	76	76	41	tp:A:P	cm:i:5	s1:i:76	s2:i:0	dv:f:0.0095	rl:i:0
+NODE_932_length_100_cov_118.133333_pilon_pilon_pilon_pilon	100	6	82	-	NC_000962.3	4411532	4087525	4087601	76	76	46	tp:A:P	cm:i:8	s1:i:76	s2:i:49	dv:f:0.0062	rl:i:0
+NODE_932_length_100_cov_118.133333_pilon_pilon_pilon_pilon	100	6	55	-	NC_000962.3	4411532	4087495	4087544	49	49	0	tp:A:S	cm:i:5	s1:i:49	dv:f:0.0095	rl:i:0
+NODE_933_length_99_cov_240.295455_pilon_pilon_pilon_pilon	99	14	90	+	NC_000962.3	4411532	1895436	1895512	76	76	0	tp:A:P	cm:i:6	s1:i:76	s2:i:76	dv:f:0.0081	rl:i:0
+NODE_933_length_99_cov_240.295455_pilon_pilon_pilon_pilon	99	14	90	+	NC_000962.3	4411532	1895379	1895455	76	76	0	tp:A:S	cm:i:6	s1:i:76	dv:f:0.0081	rl:i:0
+NODE_933_length_99_cov_240.295455_pilon_pilon_pilon_pilon	99	14	90	+	NC_000962.3	4411532	1895493	1895569	76	76	0	tp:A:S	cm:i:6	s1:i:76	dv:f:0.0081	rl:i:0
+NODE_933_length_99_cov_240.295455_pilon_pilon_pilon_pilon	99	50	90	+	NC_000962.3	4411532	1895358	1895398	40	40	0	tp:A:S	cm:i:3	s1:i:40	dv:f:0.0265	rl:i:0
+NODE_934_length_98_cov_346.581395_pilon_pilon_pilon_pilon	98	4	92	-	NC_000962.3	4411532	2996017	2996105	88	88	0	tp:A:P	cm:i:5	s1:i:88	s2:i:88	dv:f:0.0095	rl:i:0
+NODE_934_length_98_cov_346.581395_pilon_pilon_pilon_pilon	98	4	92	-	NC_000962.3	4411532	2996068	2996156	88	88	0	tp:A:S	cm:i:5	s1:i:88	dv:f:0.0095	rl:i:0
+NODE_935_length_98_cov_127.581395_pilon_pilon_pilon_pilon	98	47	89	-	NC_000962.3	4411532	1843593	1843635	42	42	2	tp:A:P	cm:i:3	s1:i:42	s2:i:0	dv:f:0.0265	rl:i:0
+NODE_936_length_98_cov_126.651163_pilon_pilon_pilon_pilon	98	6	81	+	NC_000962.3	4411532	2626486	2626562	56	76	0	tp:A:P	cm:i:3	s1:i:56	s2:i:56	dv:f:0.0265	rl:i:0
+NODE_936_length_98_cov_126.651163_pilon_pilon_pilon_pilon	98	6	81	-	NC_000962.3	4411532	1340615	1340691	56	76	0	tp:A:S	cm:i:3	s1:i:56	dv:f:0.0265	rl:i:0
+NODE_937_length_97_cov_216.404762_pilon_pilon_pilon_pilon	97	13	89	+	NC_000962.3	4411532	4120954	4121030	66	76	19	tp:A:P	cm:i:4	s1:i:66	s2:i:47	dv:f:0.0290	rl:i:0
+NODE_937_length_97_cov_216.404762_pilon_pilon_pilon_pilon	97	42	89	+	NC_000962.3	4411532	4120926	4120973	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_938_length_97_cov_123.952381_pilon_pilon_pilon_pilon	97	12	81	+	NC_000962.3	4411532	1789768	1789837	69	69	42	tp:A:P	cm:i:6	s1:i:69	s2:i:0	dv:f:0.0081	rl:i:0
+NODE_939_length_96_cov_200.463415_pilon_pilon_pilon_pilon	96	13	95	-	NC_000962.3	4411532	3941797	3941879	82	82	21	tp:A:P	cm:i:10	s1:i:82	s2:i:70	dv:f:0.0050	rl:i:0
+NODE_939_length_96_cov_200.463415_pilon_pilon_pilon_pilon	96	25	95	-	NC_000962.3	4411532	3941460	3941530	70	70	0	tp:A:S	cm:i:8	s1:i:70	dv:f:0.0117	rl:i:0
+NODE_940_length_96_cov_130.609756_pilon_pilon_pilon_pilon	96	16	94	-	NC_000962.3	4411532	3730939	3731017	62	78	23	tp:A:P	cm:i:4	s1:i:62	s2:i:40	dv:f:0.0211	rl:i:0
+NODE_940_length_96_cov_130.609756_pilon_pilon_pilon_pilon	96	54	94	-	NC_000962.3	4411532	3736222	3736262	40	40	0	tp:A:S	cm:i:3	s1:i:40	dv:f:0.0265	rl:i:0
+NODE_941_length_93_cov_101.210526_pilon_pilon_pilon_pilon	93	3	77	+	NC_000962.3	4411532	2059471	2059545	74	74	33	tp:A:P	cm:i:6	s1:i:74	s2:i:50	dv:f:0.0081	rl:i:0
+NODE_941_length_93_cov_101.210526_pilon_pilon_pilon_pilon	93	3	53	+	NC_000962.3	4411532	2059548	2059598	50	50	0	tp:A:S	cm:i:4	s1:i:50	dv:f:0.0117	rl:i:0
+NODE_943_length_91_cov_281.638889_pilon_pilon_pilon_pilon	91	22	87	-	NC_000962.3	4411532	2163425	2163490	65	65	33	tp:A:P	cm:i:6	s1:i:65	s2:i:43	dv:f:0.0150	rl:i:0
+NODE_943_length_91_cov_281.638889_pilon_pilon_pilon_pilon	91	44	87	-	NC_000962.3	4411532	2163356	2163399	43	43	0	tp:A:S	cm:i:4	s1:i:43	dv:f:0.0211	rl:i:0
+NODE_944_length_91_cov_108.444444_pilon_pilon_pilon_pilon	91	40	81	-	NC_000962.3	4411532	802455	802496	41	41	1	tp:A:P	cm:i:4	s1:i:41	s2:i:0	dv:f:0.0211	rl:i:0
+NODE_945_length_90_cov_130.600000_pilon_pilon_pilon_pilon	90	0	75	-	NC_000962.3	4411532	569856	569931	75	75	38	tp:A:P	cm:i:6	s1:i:75	s2:i:47	dv:f:0.0081	rl:i:0
+NODE_945_length_90_cov_130.600000_pilon_pilon_pilon_pilon	90	0	47	-	NC_000962.3	4411532	569828	569875	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_946_length_89_cov_233.235294_pilon_pilon_pilon_pilon	89	12	63	-	NC_000962.3	4411532	3935963	3936014	51	51	0	tp:A:P	cm:i:4	s1:i:51	s2:i:51	dv:f:0.0117	rl:i:0
+NODE_946_length_89_cov_233.235294_pilon_pilon_pilon_pilon	89	12	63	-	NC_000962.3	4411532	3935348	3935399	51	51	0	tp:A:S	cm:i:4	s1:i:51	dv:f:0.0117	rl:i:0
+NODE_946_length_89_cov_233.235294_pilon_pilon_pilon_pilon	89	12	63	-	NC_000962.3	4411532	3934703	3934754	47	51	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0265	rl:i:0
+NODE_947_length_88_cov_107.333333_pilon_pilon_pilon_pilon	88	6	71	-	NC_000962.3	4411532	2074475	2074540	65	65	0	tp:A:P	cm:i:5	s1:i:65	s2:i:65	dv:f:0.0095	rl:i:0
+NODE_947_length_88_cov_107.333333_pilon_pilon_pilon_pilon	88	6	71	-	NC_000962.3	4411532	2074531	2074596	65	65	0	tp:A:S	cm:i:5	s1:i:65	dv:f:0.0095	rl:i:0
+NODE_947_length_88_cov_107.333333_pilon_pilon_pilon_pilon	88	6	54	-	NC_000962.3	4411532	2074436	2074484	48	48	0	tp:A:S	cm:i:3	s1:i:48	dv:f:0.0150	rl:i:0
+NODE_948_length_88_cov_94.757576_pilon_pilon_pilon_pilon	88	37	80	+	NC_000962.3	4411532	2163425	2163468	43	43	0	tp:A:P	cm:i:4	s1:i:43	s2:i:43	dv:f:0.0211	rl:i:0
+NODE_948_length_88_cov_94.757576_pilon_pilon_pilon_pilon	88	37	80	+	NC_000962.3	4411532	2163356	2163399	43	43	0	tp:A:S	cm:i:4	s1:i:43	dv:f:0.0211	rl:i:0
+NODE_949_length_87_cov_260.625000_pilon_pilon_pilon_pilon	87	16	81	+	NC_000962.3	4411532	3735693	3735758	65	65	33	tp:A:P	cm:i:7	s1:i:65	s2:i:45	dv:f:0.0070	rl:i:0
+NODE_949_length_87_cov_260.625000_pilon_pilon_pilon_pilon	87	36	81	+	NC_000962.3	4411532	3730430	3730475	45	45	0	tp:A:S	cm:i:5	s1:i:45	dv:f:0.0176	rl:i:0
+NODE_949_length_87_cov_260.625000_pilon_pilon_pilon_pilon	87	36	81	+	NC_000962.3	4411532	3732158	3732203	45	45	0	tp:A:S	cm:i:5	s1:i:45	dv:f:0.0176	rl:i:0
+NODE_950_length_86_cov_177.774194_pilon_pilon_pilon_pilon	86	16	77	+	NC_000962.3	4411532	3007075	3007136	61	61	0	tp:A:P	cm:i:6	s1:i:61	s2:i:61	dv:f:0.0081	rl:i:0
+NODE_950_length_86_cov_177.774194_pilon_pilon_pilon_pilon	86	16	77	+	NC_000962.3	4411532	3007128	3007189	61	61	0	tp:A:S	cm:i:6	s1:i:61	dv:f:0.0081	rl:i:0
+NODE_950_length_86_cov_177.774194_pilon_pilon_pilon_pilon	86	37	77	+	NC_000962.3	4411532	3007043	3007083	40	40	0	tp:A:S	cm:i:4	s1:i:40	dv:f:0.0211	rl:i:0
+NODE_951_length_86_cov_136.935484_pilon_pilon_pilon_pilon	86	4	77	-	NC_000962.3	4411532	4053281	4053354	73	73	0	tp:A:P	cm:i:7	s1:i:73	s2:i:73	dv:f:0.0070	rl:i:0
+NODE_951_length_86_cov_136.935484_pilon_pilon_pilon_pilon	86	4	77	-	NC_000962.3	4411532	4053059	4053132	73	73	0	tp:A:S	cm:i:7	s1:i:73	dv:f:0.0070	rl:i:0
+NODE_951_length_86_cov_136.935484_pilon_pilon_pilon_pilon	86	4	77	-	NC_000962.3	4411532	4053170	4053243	73	73	0	tp:A:S	cm:i:7	s1:i:73	dv:f:0.0070	rl:i:0
+NODE_951_length_86_cov_136.935484_pilon_pilon_pilon_pilon	86	4	77	-	NC_000962.3	4411532	4053392	4053465	73	73	0	tp:A:S	cm:i:7	s1:i:73	dv:f:0.0070	rl:i:0
+NODE_951_length_86_cov_136.935484_pilon_pilon_pilon_pilon	86	4	47	-	NC_000962.3	4411532	4052978	4053021	43	43	0	tp:A:S	cm:i:4	s1:i:43	dv:f:0.0117	rl:i:0
+NODE_953_length_83_cov_237.714286_pilon_pilon_pilon_pilon	83	16	70	-	NC_000962.3	4411532	1789578	1789632	54	54	0	tp:A:P	cm:i:6	s1:i:54	s2:i:54	dv:f:0.0081	rl:i:0
+NODE_953_length_83_cov_237.714286_pilon_pilon_pilon_pilon	83	16	70	+	NC_000962.3	4411532	3883728	3883782	54	54	0	tp:A:S	cm:i:6	s1:i:54	dv:f:0.0081	rl:i:0
+NODE_954_length_83_cov_112.000000_pilon_pilon_pilon_pilon	83	1	71	+	NC_000962.3	4411532	3731010	3731080	70	70	50	tp:A:P	cm:i:7	s1:i:70	s2:i:0	dv:f:0.0070	rl:i:0
+NODE_955_length_81_cov_116.307692_pilon_pilon_pilon_pilon	81	5	78	-	NC_000962.3	4411532	631339	631412	73	73	29	tp:A:P	cm:i:5	s1:i:73	s2:i:48	dv:f:0.0095	rl:i:0
+NODE_955_length_81_cov_116.307692_pilon_pilon_pilon_pilon	81	30	78	-	NC_000962.3	4411532	631375	631423	48	48	0	tp:A:S	cm:i:3	s1:i:48	dv:f:0.0265	rl:i:0
+NODE_955_length_81_cov_116.307692_pilon_pilon_pilon_pilon	81	5	49	-	NC_000962.3	4411532	631332	631376	44	44	0	tp:A:S	cm:i:3	s1:i:44	dv:f:0.0150	rl:i:0
+NODE_956_length_79_cov_285.291667_pilon_pilon_pilon_pilon	79	11	71	-	NC_000962.3	4411532	4053311	4053371	60	60	0	tp:A:P	cm:i:6	s1:i:60	s2:i:60	dv:f:0.0081	rl:i:0
+NODE_956_length_79_cov_285.291667_pilon_pilon_pilon_pilon	79	11	71	-	NC_000962.3	4411532	4053422	4053482	60	60	0	tp:A:S	cm:i:6	s1:i:60	dv:f:0.0081	rl:i:0
+NODE_956_length_79_cov_285.291667_pilon_pilon_pilon_pilon	79	11	71	-	NC_000962.3	4411532	4053200	4053260	60	60	0	tp:A:S	cm:i:6	s1:i:60	dv:f:0.0081	rl:i:0
+NODE_956_length_79_cov_285.291667_pilon_pilon_pilon_pilon	79	11	71	-	NC_000962.3	4411532	4052978	4053038	60	60	0	tp:A:S	cm:i:6	s1:i:60	dv:f:0.0081	rl:i:0
+NODE_956_length_79_cov_285.291667_pilon_pilon_pilon_pilon	79	11	71	-	NC_000962.3	4411532	4053089	4053149	60	60	0	tp:A:S	cm:i:6	s1:i:60	dv:f:0.0081	rl:i:0
+NODE_957_length_79_cov_147.708333_pilon_pilon_pilon_pilon	79	0	70	-	NC_000962.3	4411532	3732107	3732177	52	70	12	tp:A:P	cm:i:5	s1:i:52	s2:i:44	dv:f:0.0244	rl:i:0
+NODE_957_length_79_cov_147.708333_pilon_pilon_pilon_pilon	79	0	70	-	NC_000962.3	4411532	3730379	3730449	44	70	0	tp:A:S	cm:i:3	s1:i:44	dv:f:0.0503	rl:i:0
+NODE_958_length_78_cov_222.826087_pilon_pilon_pilon_pilon	78	10	68	+	NC_000962.3	4411532	103766	103824	58	58	0	tp:A:P	cm:i:4	s1:i:58	s2:i:58	dv:f:0.0117	rl:i:0
+NODE_958_length_78_cov_222.826087_pilon_pilon_pilon_pilon	78	10	68	-	NC_000962.3	4411532	3884802	3884860	58	58	0	tp:A:S	cm:i:4	s1:i:58	dv:f:0.0117	rl:i:0
+NODE_958_length_78_cov_222.826087_pilon_pilon_pilon_pilon	78	26	68	+	NC_000962.3	4411532	1788516	1788558	42	42	0	tp:A:S	cm:i:3	s1:i:42	dv:f:0.0265	rl:i:0
+NODE_959_length_78_cov_64.956522_pilon_pilon_pilon_pilon	78	9	54	+	NC_000962.3	4411532	3935365	3935410	45	45	0	tp:A:P	cm:i:3	s1:i:45	s2:i:45	dv:f:0.0150	rl:i:0
+NODE_959_length_78_cov_64.956522_pilon_pilon_pilon_pilon	78	9	54	+	NC_000962.3	4411532	3935980	3936025	45	45	0	tp:A:S	cm:i:3	s1:i:45	dv:f:0.0150	rl:i:0
+NODE_959_length_78_cov_64.956522_pilon_pilon_pilon_pilon	78	24	66	+	NC_000962.3	4411532	3934735	3934777	42	42	2	tp:A:P	cm:i:3	s1:i:42	s2:i:0	dv:f:0.0265	rl:i:0
+NODE_960_length_76_cov_405.666667_pilon_pilon_pilon_pilon	76	0	60	-	NC_000962.3	4411532	3336700	3336760	60	60	15	tp:A:P	cm:i:5	s1:i:60	s2:i:49	dv:f:0.0095	rl:i:0
+NODE_960_length_76_cov_405.666667_pilon_pilon_pilon_pilon	76	0	49	-	NC_000962.3	4411532	3336534	3336583	49	49	0	tp:A:S	cm:i:4	s1:i:49	dv:f:0.0117	rl:i:0
+NODE_960_length_76_cov_405.666667_pilon_pilon_pilon_pilon	76	0	49	-	NC_000962.3	4411532	3336593	3336642	49	49	0	tp:A:S	cm:i:4	s1:i:49	dv:f:0.0117	rl:i:0
+NODE_960_length_76_cov_405.666667_pilon_pilon_pilon_pilon	76	0	49	-	NC_000962.3	4411532	3336652	3336701	49	49	0	tp:A:S	cm:i:4	s1:i:49	dv:f:0.0117	rl:i:0
+NODE_961_length_76_cov_228.619048_pilon_pilon_pilon_pilon	76	14	61	+	NC_000962.3	4411532	3883563	3883610	47	47	0	tp:A:P	cm:i:3	s1:i:47	s2:i:47	dv:f:0.0150	rl:i:0
+NODE_961_length_76_cov_228.619048_pilon_pilon_pilon_pilon	76	14	61	-	NC_000962.3	4411532	1789750	1789797	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_962_length_76_cov_117.000000_pilon_pilon_pilon_pilon	76	22	72	+	NC_000962.3	4411532	1955582	1955632	50	50	15	tp:A:P	cm:i:5	s1:i:50	s2:i:0	dv:f:0.0176	rl:i:0
+NODE_963_length_75_cov_221.250000_pilon_pilon_pilon_pilon	75	3	72	+	NC_000962.3	4411532	2347504	2347573	69	69	0	tp:A:P	cm:i:5	s1:i:69	s2:i:69	dv:f:0.0095	rl:i:0
+NODE_963_length_75_cov_221.250000_pilon_pilon_pilon_pilon	75	3	72	+	NC_000962.3	4411532	2347447	2347516	69	69	0	tp:A:S	cm:i:5	s1:i:69	dv:f:0.0095	rl:i:0
+NODE_963_length_75_cov_221.250000_pilon_pilon_pilon_pilon	75	21	72	+	NC_000962.3	4411532	2347408	2347459	51	51	0	tp:A:S	cm:i:4	s1:i:51	dv:f:0.0211	rl:i:0
+NODE_963_length_75_cov_221.250000_pilon_pilon_pilon_pilon	75	3	49	+	NC_000962.3	4411532	2347561	2347607	46	46	0	tp:A:S	cm:i:3	s1:i:46	dv:f:0.0150	rl:i:0
+NODE_964_length_75_cov_115.000000_pilon_pilon_pilon_pilon	75	16	71	-	NC_000962.3	4411532	3663774	3663829	55	55	13	tp:A:P	cm:i:3	s1:i:55	s2:i:0	dv:f:0.0150	rl:i:0
+NODE_965_length_75_cov_108.800000_pilon_pilon_pilon_pilon	75	10	71	-	NC_000962.3	4411532	103740	103801	61	61	0	tp:A:P	cm:i:4	s1:i:61	s2:i:61	dv:f:0.0117	rl:i:0
+NODE_965_length_75_cov_108.800000_pilon_pilon_pilon_pilon	75	10	71	+	NC_000962.3	4411532	3884825	3884886	61	61	0	tp:A:S	cm:i:4	s1:i:61	dv:f:0.0117	rl:i:0
+NODE_966_length_74_cov_91.263158_pilon_pilon_pilon_pilon	74	4	56	+	NC_000962.3	4411532	1305541	1305593	52	52	10	tp:A:P	cm:i:3	s1:i:52	s2:i:0	dv:f:0.0150	rl:i:0
+NODE_967_length_74_cov_81.315789_pilon_pilon_pilon_pilon	74	9	50	-	NC_000962.3	4411532	2163449	2163490	41	41	1	tp:A:P	cm:i:3	s1:i:41	s2:i:0	dv:f:0.0150	rl:i:0
+NODE_968_length_74_cov_77.157895_pilon_pilon_pilon_pilon	74	18	63	+	NC_000962.3	4411532	3934821	3934866	45	45	6	tp:A:P	cm:i:4	s1:i:45	s2:i:40	dv:f:0.0117	rl:i:0
+NODE_968_length_74_cov_77.157895_pilon_pilon_pilon_pilon	74	23	63	+	NC_000962.3	4411532	3934874	3934914	40	40	0	tp:A:S	cm:i:3	s1:i:40	dv:f:0.0265	rl:i:0
+NODE_969_length_73_cov_112.500000_pilon_pilon_pilon_pilon	73	8	53	+	NC_000962.3	4411532	4060286	4060331	45	45	0	tp:A:P	cm:i:3	s1:i:45	s2:i:45	dv:f:0.0150	rl:i:0
+NODE_969_length_73_cov_112.500000_pilon_pilon_pilon_pilon	73	8	53	+	NC_000962.3	4411532	1160846	1160891	45	45	0	tp:A:S	cm:i:3	s1:i:45	dv:f:0.0150	rl:i:0
+NODE_970_length_70_cov_269.800000_pilon_pilon_pilon_pilon	70	14	62	+	NC_000962.3	4411532	1789459	1789507	48	48	0	tp:A:P	cm:i:6	s1:i:48	s2:i:48	dv:f:0.0081	rl:i:0
+NODE_970_length_70_cov_269.800000_pilon_pilon_pilon_pilon	70	14	62	-	NC_000962.3	4411532	3883853	3883901	48	48	0	tp:A:S	cm:i:6	s1:i:48	dv:f:0.0081	rl:i:0
+NODE_970_length_70_cov_269.800000_pilon_pilon_pilon_pilon	70	14	54	+	NC_000962.3	4411532	104725	104765	40	40	0	tp:A:S	cm:i:4	s1:i:40	dv:f:0.0117	rl:i:0
+NODE_971_length_65_cov_219.000000_pilon_pilon_pilon_pilon	65	1	58	-	NC_000962.3	4411532	3155987	3156044	57	57	0	tp:A:P	cm:i:5	s1:i:57	s2:i:57	dv:f:0.0095	rl:i:0
+NODE_971_length_65_cov_219.000000_pilon_pilon_pilon_pilon	65	1	58	-	NC_000962.3	4411532	3155933	3155990	57	57	0	tp:A:S	cm:i:5	s1:i:57	dv:f:0.0095	rl:i:0
+NODE_971_length_65_cov_219.000000_pilon_pilon_pilon_pilon	65	1	42	-	NC_000962.3	4411532	3155895	3155936	41	41	0	tp:A:S	cm:i:4	s1:i:41	dv:f:0.0117	rl:i:0
+NODE_972_length_64_cov_114.333333_pilon_pilon_pilon_pilon	64	12	60	+	NC_000962.3	4411532	1451838	1451886	48	48	0	tp:A:P	cm:i:4	s1:i:48	s2:i:48	dv:f:0.0117	rl:i:0
+NODE_972_length_64_cov_114.333333_pilon_pilon_pilon_pilon	64	12	60	+	NC_000962.3	4411532	1451781	1451829	48	48	0	tp:A:S	cm:i:4	s1:i:48	dv:f:0.0117	rl:i:0
+NODE_972_length_64_cov_114.333333_pilon_pilon_pilon_pilon	64	12	60	+	NC_000962.3	4411532	1451895	1451943	48	48	0	tp:A:S	cm:i:4	s1:i:48	dv:f:0.0117	rl:i:0
+NODE_973_length_64_cov_6.888889_pilon_pilon_pilon_pilon	64	0	46	+	NC_000962.3	4411532	79511	79557	46	46	5	tp:A:P	cm:i:3	s1:i:46	s2:i:0	dv:f:0.0150	rl:i:0
+NODE_973_length_64_cov_6.888889_pilon_pilon_pilon_pilon	64	18	64	+	NC_000962.3	4411532	79511	79557	46	46	7	tp:A:P	cm:i:4	s1:i:46	s2:i:0	dv:f:0.0117	rl:i:0
+NODE_977_length_59_cov_126.500000_pilon_pilon_pilon_pilon	59	5	50	-	NC_000962.3	4411532	4156862	4156907	45	45	0	tp:A:P	cm:i:3	s1:i:45	s2:i:45	dv:f:0.0150	rl:i:0
+NODE_977_length_59_cov_126.500000_pilon_pilon_pilon_pilon	59	5	50	-	NC_000962.3	4411532	4156803	4156848	45	45	0	tp:A:S	cm:i:3	s1:i:45	dv:f:0.0150	rl:i:0
+NODE_977_length_59_cov_126.500000_pilon_pilon_pilon_pilon	59	5	50	-	NC_000962.3	4411532	4156921	4156966	45	45	0	tp:A:S	cm:i:3	s1:i:45	dv:f:0.0150	rl:i:0
+NODE_978_length_59_cov_103.500000_pilon_pilon_pilon_pilon	59	7	48	+	NC_000962.3	4411532	960222	960263	41	41	0	tp:A:P	cm:i:3	s1:i:41	s2:i:41	dv:f:0.0150	rl:i:0
+NODE_978_length_59_cov_103.500000_pilon_pilon_pilon_pilon	59	7	48	+	NC_000962.3	4411532	960275	960316	41	41	0	tp:A:S	cm:i:3	s1:i:41	dv:f:0.0150	rl:i:0
+NODE_978_length_59_cov_103.500000_pilon_pilon_pilon_pilon	59	7	48	+	NC_000962.3	4411532	960169	960210	41	41	0	tp:A:S	cm:i:3	s1:i:41	dv:f:0.0150	rl:i:0
+NODE_980_length_58_cov_157.666667_pilon_pilon_pilon_pilon	58	9	55	-	NC_000962.3	4411532	3690950	3690996	46	46	0	tp:A:P	cm:i:3	s1:i:46	s2:i:46	dv:f:0.0150	rl:i:0
+NODE_980_length_58_cov_157.666667_pilon_pilon_pilon_pilon	58	9	55	-	NC_000962.3	4411532	3691008	3691054	46	46	0	tp:A:S	cm:i:3	s1:i:46	dv:f:0.0150	rl:i:0
+NODE_984_length_56_cov_495.000000_pilon_pilon_pilon_pilon	56	0	47	+	NC_000962.3	4411532	4120983	4121030	47	47	0	tp:A:P	cm:i:3	s1:i:47	s2:i:47	dv:f:0.0150	rl:i:0
+NODE_984_length_56_cov_495.000000_pilon_pilon_pilon_pilon	56	0	47	+	NC_000962.3	4411532	4120926	4120973	47	47	0	tp:A:S	cm:i:3	s1:i:47	dv:f:0.0150	rl:i:0
+NODE_986_length_56_cov_220.000000_pilon_pilon_pilon_pilon	56	10	50	-	NC_000962.3	4411532	1789684	1789724	40	40	0	tp:A:P	cm:i:3	s1:i:40	s2:i:40	dv:f:0.0150	rl:i:0
+NODE_986_length_56_cov_220.000000_pilon_pilon_pilon_pilon	56	10	50	+	NC_000962.3	4411532	3883636	3883676	40	40	0	tp:A:S	cm:i:3	s1:i:40	dv:f:0.0150	rl:i:0

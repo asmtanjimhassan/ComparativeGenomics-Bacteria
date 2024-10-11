@@ -1,0 +1,15 @@
+reference chromosomes:
+	LT708304.1 (total length: 4349904 bp, total length without N's: 4349904 bp, maximal covered length: 4298445 bp)
+
+total genome size: 4349904
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+scaffolds                | 98.814    | 1.000       | 55        | -         | -         | -         | -         |
+target-polished          | 98.817    | 1.000       | 51        | -         | -         | -         | -         |

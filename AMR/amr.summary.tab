@@ -1,0 +1,4 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+target_reordered/target.reordered.fasta	NC_000962.3_RagTag	405939	406484	-	aac(2')-Ic	1-546/546	===============	0/0	100.00	100.00	ncbi	NG_047229.1	aminoglycoside N-acetyltransferase AAC(2')-Ic	GENTAMICIN;TOBRAMCYIN
+target_reordered/target.reordered.fasta	NC_000962.3_RagTag	2301112	2301651	+	erm(37)	1-540/540	===============	0/0	100.00	100.00	ncbi	NG_047780.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(37)	MACROLIDE
+target_reordered/target.reordered.fasta	NC_000962.3_RagTag	2399593	2400516	-	blaA_Mtub	1-924/924	===============	0/0	100.00	100.00	ncbi	NG_047489.1	class A beta-lactamase BlaA	BETA-LACTAM

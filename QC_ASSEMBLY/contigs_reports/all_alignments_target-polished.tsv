@@ -1,0 +1,229 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+4131467	4193643	62177	1	LT708304.1	NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon	99.93		True
+relocation, inconsistency = -1166
+4004383	4131465	190283	63345	LT708304.1	NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon	99.73		True
+relocation, inconsistency = 2840614
+1161019	1161622	193033	192430	LT708304.1	NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon	99.17		True
+relocation, inconsistency = -2846508
+3917727	4004383	282474	196177	LT708304.1	NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon	99.53		True
+relocation, inconsistency = 2281
+3897204	3915445	300721	282475	LT708304.1	NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon	99.9		True
+CONTIG	NODE_1_length_301225_cov_133.087346_pilon_pilon_pilon_pilon	301094	misassembled
+2318399	2537858	219272	56	LT708304.1	NODE_2_length_245239_cov_129.518819_pilon_pilon_pilon_pilon	99.62		True
+relocation, inconsistency = -2029
+2294458	2318399	245239	221301	LT708304.1	NODE_2_length_245239_cov_129.518819_pilon_pilon_pilon_pilon	99.95		True
+CONTIG	NODE_2_length_245239_cov_129.518819_pilon_pilon_pilon_pilon	245239	misassembled
+3490342	3673334	183002	1	LT708304.1	NODE_3_length_226620_cov_132.558643_pilon_pilon_pilon_pilon	99.93		True
+relocation, inconsistency = 2146
+3461186	3488195	210012	183003	LT708304.1	NODE_3_length_226620_cov_132.558643_pilon_pilon_pilon_pilon	99.91		True
+relocation, inconsistency = 1337
+3445699	3459848	224162	210013	LT708304.1	NODE_3_length_226620_cov_132.558643_pilon_pilon_pilon_pilon	99.94		True
+CONTIG	NODE_3_length_226620_cov_132.558643_pilon_pilon_pilon_pilon	226620	misassembled
+609133	834015	224791	1	LT708304.1	NODE_4_length_224791_cov_132.297264_pilon_pilon_pilon_pilon	99.9		True
+CONTIG	NODE_4_length_224791_cov_132.297264_pilon_pilon_pilon_pilon	224791	correct
+264980	308417	43436	1	LT708304.1	NODE_5_length_205495_cov_133.381231_pilon_pilon_pilon_pilon	99.93		True
+relocation, inconsistency = -1902
+104747	264979	205495	45339	LT708304.1	NODE_5_length_205495_cov_133.381231_pilon_pilon_pilon_pilon	99.85		True
+CONTIG	NODE_5_length_205495_cov_133.381231_pilon_pilon_pilon_pilon	205495	misassembled
+2161947	2192022	30076	1	LT708304.1	NODE_6_length_197133_cov_130.977593_pilon_pilon_pilon_pilon	99.95		True
+fake: scaffold gap size wrong estimation (local)
+1993407	2160549	197133	30623	LT708304.1	NODE_6_length_197133_cov_130.977593_pilon_pilon_pilon_pilon	99.36		True
+CONTIG	NODE_6_length_197133_cov_130.977593_pilon_pilon_pilon_pilon	197133	correct
+1	103810	103815	2	LT708304.1	NODE_7_length_195981_cov_133.353036_pilon_pilon_pilon_pilon	99.88		True
+fake: not a misassembly [linear representation of circular genome]
+4311797	4349904	141924	103816	LT708304.1	NODE_7_length_195981_cov_133.353036_pilon_pilon_pilon_pilon	99.9		True
+relocation, inconsistency = -2406
+4260002	4311799	195981	144328	LT708304.1	NODE_7_length_195981_cov_133.353036_pilon_pilon_pilon_pilon	99.67		True
+CONTIG	NODE_7_length_195981_cov_133.353036_pilon_pilon_pilon_pilon	195981	misassembled
+2612041	2800282	188015	1	LT708304.1	NODE_8_length_188015_cov_132.231033_pilon_pilon_pilon_pilon	99.79		True
+CONTIG	NODE_8_length_188015_cov_132.231033_pilon_pilon_pilon_pilon	188015	correct
+3155325	3338008	182590	1	LT708304.1	NODE_9_length_182590_cov_130.026669_pilon_pilon_pilon_pilon	99.79		True
+CONTIG	NODE_9_length_182590_cov_130.026669_pilon_pilon_pilon_pilon	182590	correct
+909845	1075493	1	165833	LT708304.1	NODE_10_length_165887_cov_130.083554_pilon_pilon_pilon_pilon	99.65		True
+CONTIG	NODE_10_length_165887_cov_130.083554_pilon_pilon_pilon_pilon	165887	correct
+2941862	2943891	2030	1	LT708304.1	NODE_11_length_150954_cov_132.636426_pilon_pilon_pilon_pilon	99.95		True
+relocation, inconsistency = -9624
+2838989	2941889	114359	11627	LT708304.1	NODE_11_length_150954_cov_132.636426_pilon_pilon_pilon_pilon	99.76		True
+relocation, inconsistency = 1312
+2801082	2837676	150954	114360	LT708304.1	NODE_11_length_150954_cov_132.636426_pilon_pilon_pilon_pilon	99.78		True
+CONTIG	NODE_11_length_150954_cov_132.636426_pilon_pilon_pilon_pilon	150954	misassembled
+1638381	1697170	1	58735	LT708304.1	NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon	99.82		True
+relocation, inconsistency = -12732
+1697171	1750219	71468	124511	LT708304.1	NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon	99.94		True
+relocation, inconsistency = 2153
+1752373	1758654	124512	130793	LT708304.1	NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon	99.98		True
+local misassembly
+1758655	1769053	131600	141998	LT708304.1	NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon	99.98		True
+CONTIG	NODE_12_length_142018_cov_127.864162_pilon_pilon_pilon_pilon	142018	misassembled
+2944691	3080182	1	135314	LT708304.1	NODE_13_length_136672_cov_131.243689_pilon_pilon_pilon_pilon	99.61		True
+CONTIG	NODE_13_length_136672_cov_131.243689_pilon_pilon_pilon_pilon	136672	correct
+476998	607716	130551	1	LT708304.1	NODE_14_length_130551_cov_132.229241_pilon_pilon_pilon_pilon	99.81		True
+CONTIG	NODE_14_length_130551_cov_132.229241_pilon_pilon_pilon_pilon	130551	correct
+1417210	1470719	53432	1	LT708304.1	NODE_15_length_125327_cov_122.182156_pilon_pilon_pilon_pilon	99.42		True
+relocation, inconsistency = 4381
+1404203	1412828	62059	53433	LT708304.1	NODE_15_length_125327_cov_122.182156_pilon_pilon_pilon_pilon	98.78		True
+relocation, inconsistency = -3007
+1343951	1404205	125327	65064	LT708304.1	NODE_15_length_125327_cov_122.182156_pilon_pilon_pilon_pilon	99.93		True
+CONTIG	NODE_15_length_125327_cov_122.182156_pilon_pilon_pilon_pilon	125327	misassembled
+1779586	1890901	1	111123	LT708304.1	NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	99.78		True
+CONTIG	NODE_16_length_111178_cov_128.385105_pilon_pilon_pilon_pilon	111178	correct
+1171155	1191830	1	20674	LT708304.1	NODE_17_length_106556_cov_128.588717_pilon_pilon_pilon_pilon	99.78		True
+local misassembly
+1192548	1278393	20675	106556	LT708304.1	NODE_17_length_106556_cov_128.588717_pilon_pilon_pilon_pilon	99.84		True
+CONTIG	NODE_17_length_106556_cov_128.588717_pilon_pilon_pilon_pilon	106556	correct
+1536014	1573576	1	37561	LT708304.1	NODE_18_length_98782_cov_125.289110_pilon_pilon_pilon_pilon	99.93		True
+local misassembly
+1573561	1634448	37918	98782	LT708304.1	NODE_18_length_98782_cov_125.289110_pilon_pilon_pilon_pilon	99.8		True
+CONTIG	NODE_18_length_98782_cov_125.289110_pilon_pilon_pilon_pilon	98782	correct
+3343667	3442338	98740	1	LT708304.1	NODE_19_length_98740_cov_132.151067_pilon_pilon_pilon_pilon	99.87		True
+CONTIG	NODE_19_length_98740_cov_132.151067_pilon_pilon_pilon_pilon	98740	correct
+308372	333993	1	25749	LT708304.1	NODE_20_length_90084_cov_130.623766_pilon_pilon_pilon_pilon	99.03		True
+relocation, inconsistency = 2897
+336891	401236	25750	90084	LT708304.1	NODE_20_length_90084_cov_130.623766_pilon_pilon_pilon_pilon	99.77		True
+CONTIG	NODE_20_length_90084_cov_130.623766_pilon_pilon_pilon_pilon	90084	misassembled
+1075490	1165101	89616	1	LT708304.1	NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	99.93		True
+CONTIG	NODE_21_length_89668_cov_134.854128_pilon_pilon_pilon_pilon	89671	correct
+3712252	3798730	85918	1	LT708304.1	NODE_22_length_85918_cov_129.803559_pilon_pilon_pilon_pilon	99.08		True
+CONTIG	NODE_22_length_85918_cov_129.803559_pilon_pilon_pilon_pilon	85918	correct
+2608076	2608951	883	8	LT708304.1	NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	100.0		True
+relocation, inconsistency = 1255091
+1341776	1342383	11301	11908	LT708304.1	NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	97.85		True
+relocation, inconsistency = 1195471
+2537855	2608077	82130	11909	LT708304.1	NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	99.94		True
+CONTIG	NODE_23_length_82183_cov_135.067212_pilon_pilon_pilon_pilon	82183	misassembled
+1890898	1971890	54	80988	LT708304.1	NODE_24_length_80988_cov_129.959621_pilon_pilon_pilon_pilon	99.87		True
+CONTIG	NODE_24_length_80988_cov_129.959621_pilon_pilon_pilon_pilon	80988	correct
+402653	474907	72388	1	LT708304.1	NODE_25_length_72388_cov_131.469136_pilon_pilon_pilon_pilon	99.6		True
+CONTIG	NODE_25_length_72388_cov_131.469136_pilon_pilon_pilon_pilon	72388	correct
+3082718	3155201	1	71952	LT708304.1	NODE_26_length_71952_cov_133.209299_pilon_pilon_pilon_pilon	98.84		True
+CONTIG	NODE_26_length_71952_cov_133.209299_pilon_pilon_pilon_pilon	71952	correct
+2204051	2245089	41037	1	LT708304.1	NODE_27_length_64597_cov_128.084596_pilon_pilon_pilon_pilon	99.94		True
+relocation, inconsistency = -12719
+2193210	2204050	64597	53757	LT708304.1	NODE_27_length_64597_cov_128.084596_pilon_pilon_pilon_pilon	99.95		True
+CONTIG	NODE_27_length_64597_cov_128.084596_pilon_pilon_pilon_pilon	64597	misassembled
+4194931	4259081	1	64161	LT708304.1	NODE_28_length_64161_cov_132.993698_pilon_pilon_pilon_pilon	99.92		True
+CONTIG	NODE_28_length_64161_cov_132.993698_pilon_pilon_pilon_pilon	64161	correct
+1280166	1341830	61729	1	LT708304.1	NODE_29_length_61729_cov_127.225476_pilon_pilon_pilon_pilon	99.85		True
+CONTIG	NODE_29_length_61729_cov_127.225476_pilon_pilon_pilon_pilon	61729	correct
+1484060	1535038	50979	1	LT708304.1	NODE_30_length_50979_cov_119.542239_pilon_pilon_pilon_pilon	99.95		True
+CONTIG	NODE_30_length_50979_cov_119.542239_pilon_pilon_pilon_pilon	50979	correct
+844467	891018	46554	1	LT708304.1	NODE_31_length_46554_cov_132.050001_pilon_pilon_pilon_pilon	99.94		True
+CONTIG	NODE_31_length_46554_cov_132.050001_pilon_pilon_pilon_pilon	46554	correct
+3799275	3835713	36444	1	LT708304.1	NODE_32_length_36444_cov_129.922861_pilon_pilon_pilon_pilon	99.77		True
+CONTIG	NODE_32_length_36444_cov_129.922861_pilon_pilon_pilon_pilon	36444	correct
+3847824	3881314	33525	1	LT708304.1	NODE_33_length_35846_cov_128.471795_pilon_pilon_pilon_pilon	99.12		True
+local misassembly
+3846216	3847825	35846	34237	LT708304.1	NODE_33_length_35846_cov_128.471795_pilon_pilon_pilon_pilon	99.88		True
+CONTIG	NODE_33_length_35846_cov_128.471795_pilon_pilon_pilon_pilon	35846	correct
+2252494	2287575	55	35139	LT708304.1	NODE_34_length_35139_cov_131.988770_pilon_pilon_pilon_pilon	99.85		True
+CONTIG	NODE_34_length_35139_cov_131.988770_pilon_pilon_pilon_pilon	35139	correct
+1972041	1992055	1	20201	LT708304.1	NODE_35_length_20036_cov_128.963515_pilon_pilon_pilon_pilon	99.08		True
+CONTIG	NODE_35_length_20036_cov_128.963515_pilon_pilon_pilon_pilon	20201	correct
+3673979	3692068	1	18089	LT708304.1	NODE_36_length_18089_cov_132.793168_pilon_pilon_pilon_pilon	99.96		True
+CONTIG	NODE_36_length_18089_cov_132.793168_pilon_pilon_pilon_pilon	18089	correct
+1769019	1778343	9326	1	LT708304.1	NODE_37_length_17587_cov_131.199806_pilon_pilon_pilon_pilon	99.92		True
+relocation, inconsistency = 2058636
+3836980	3845240	9327	17587	LT708304.1	NODE_37_length_17587_cov_131.199806_pilon_pilon_pilon_pilon	99.9		True
+CONTIG	NODE_37_length_17587_cov_131.199806_pilon_pilon_pilon_pilon	17587	misassembled
+892186	909065	1	16880	LT708304.1	NODE_38_length_16880_cov_133.415988_pilon_pilon_pilon_pilon	99.96		True
+CONTIG	NODE_38_length_16880_cov_133.415988_pilon_pilon_pilon_pilon	16880	correct
+3694232	3710663	1	16503	LT708304.1	NODE_39_length_16503_cov_128.124514_pilon_pilon_pilon_pilon	97.15		True
+CONTIG	NODE_39_length_16503_cov_128.124514_pilon_pilon_pilon_pilon	16503	correct
+1472007	1483684	1	11679	LT708304.1	NODE_40_length_11679_cov_104.479009_pilon_pilon_pilon_pilon	99.94		True
+CONTIG	NODE_40_length_11679_cov_104.479009_pilon_pilon_pilon_pilon	11679	correct
+3881933	3882138	1	206	LT708304.1	NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon	100.0		True
+indel: indel (> 5bp)
+3882139	3882564	375	800	LT708304.1	NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon	100.0		True
+indel: indel (> 5bp)
+3882742	3883389	825	1472	LT708304.1	NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon	100.0		True
+fake: scaffold gap size wrong estimation (local)
+3883390	3884062	1573	2245	LT708304.1	NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon	99.26		True
+fake: scaffold gap size wrong estimation (local)
+3884643	3889929	2534	7847	LT708304.1	NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon	99.1		True
+fake: scaffold gap size wrong estimation (local)
+3890914	3894272	7948	11180	LT708304.1	NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon	96.13		True
+CONTIG	NODE_41_length_11180_cov_122.061663_pilon_pilon_pilon_pilon	11180	correct
+834126	838693	1	4568	LT708304.1	NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon	99.96		True
+indel: indel (> 5bp)
+838694	839054	4617	4977	LT708304.1	NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon	100.0		True
+indel: indel (> 5bp)
+839055	839626	5026	5597	LT708304.1	NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon	99.65		True
+indel: indel (> 5bp)
+839765	840822	5598	6655	LT708304.1	NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon	100.0		True
+local misassembly
+841185	841385	6790	6990	LT708304.1	NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon	100.0		True
+indel: indel (> 5bp)
+841491	844356	6991	9865	LT708304.1	NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon	99.69		True
+CONTIG	NODE_42_length_9865_cov_119.819470_pilon_pilon_pilon_pilon	9865	correct
+3799275	3799692	1	418	LT708304.1	NODE_43_length_6802_cov_130.418556_pilon_pilon_pilon_pilon	98.33		True
+CONTIG	NODE_43_length_6802_cov_130.418556_pilon_pilon_pilon_pilon	6802	correct_unaligned
+2246441	2252496	6110	55	LT708304.1	NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	99.95		True
+CONTIG	NODE_44_length_6110_cov_131.970273_pilon_pilon_pilon_pilon	6110	correct
+2288815	2293644	1	4830	LT708304.1	NODE_45_length_4830_cov_156.974869_pilon_pilon_pilon_pilon	99.59		True
+CONTIG	NODE_45_length_4830_cov_156.974869_pilon_pilon_pilon_pilon	4830	correct
+1165971	1169828	1	3858	LT708304.1	NODE_46_length_3858_cov_129.083355_pilon_pilon_pilon_pilon	99.92		True
+CONTIG	NODE_46_length_3858_cov_129.083355_pilon_pilon_pilon_pilon	3858	correct
+3692536	3692727	3132	2941	LT708304.1	NODE_47_length_3132_cov_122.924602_pilon_pilon_pilon_pilon	95.31		True
+CONTIG	NODE_47_length_3132_cov_122.924602_pilon_pilon_pilon_pilon	3132	correct_unaligned
+1635729	1637146	2338	921	LT708304.1	NODE_48_length_2338_cov_136.300044_pilon_pilon_pilon_pilon	99.93		True
+CONTIG	NODE_48_length_2338_cov_136.300044_pilon_pilon_pilon_pilon	2338	correct
+474932	476973	2042	1	LT708304.1	NODE_49_length_2042_cov_131.704580_pilon_pilon_pilon_pilon	99.95		True
+CONTIG	NODE_49_length_2042_cov_131.704580_pilon_pilon_pilon_pilon	2042	correct
+3693748	3694286	539	1	LT708304.1	NODE_50_length_1658_cov_212.685590_pilon_pilon_pilon_pilon	98.33		True
+local misassembly
+3692701	3693123	1628	1206	LT708304.1	NODE_50_length_1658_cov_212.685590_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_50_length_1658_cov_212.685590_pilon_pilon_pilon_pilon	1658	correct
+2609889	2611530	1649	8	LT708304.1	NODE_51_length_1649_cov_136.154956_pilon_pilon_pilon_pilon	99.94		True
+CONTIG	NODE_51_length_1649_cov_136.154956_pilon_pilon_pilon_pilon	1649	correct
+607662	609187	1526	1	LT708304.1	NODE_52_length_1526_cov_269.456152_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_52_length_1526_cov_269.456152_pilon_pilon_pilon_pilon	1526	correct
+1992001	1993461	1461	1	LT708304.1	NODE_53_length_1461_cov_243.607397_pilon_pilon_pilon_pilon	99.59		True
+CONTIG	NODE_53_length_1461_cov_243.607397_pilon_pilon_pilon_pilon	1461	correct
+4193589	4194985	1	1408	LT708304.1	NODE_54_length_1408_cov_241.566888_pilon_pilon_pilon_pilon	99.22		True
+CONTIG	NODE_54_length_1408_cov_241.566888_pilon_pilon_pilon_pilon	1408	correct
+3081416	3082770	1355	1	LT708304.1	NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_55_length_1355_cov_966.047692_pilon_pilon_pilon_pilon	1355	correct
+3443665	3444959	1295	1	LT708304.1	NODE_56_length_1295_cov_130.143548_pilon_pilon_pilon_pilon	99.92		True
+CONTIG	NODE_56_length_1295_cov_130.143548_pilon_pilon_pilon_pilon	1295	correct
+CONTIG	NODE_57_length_1086_cov_123.358875_pilon_pilon_pilon_pilon	1086	unaligned
+3339320	3340389	1070	1	LT708304.1	NODE_58_length_1070_cov_123.313300_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_58_length_1070_cov_123.313300_pilon_pilon_pilon_pilon	1070	correct
+3711277	3712306	1031	1	LT708304.1	NODE_59_length_1031_cov_262.173156_pilon_pilon_pilon_pilon	99.71		True
+CONTIG	NODE_59_length_1031_cov_262.173156_pilon_pilon_pilon_pilon	1031	correct
+1165047	1166025	979	1	LT708304.1	NODE_60_length_979_cov_261.420996_pilon_pilon_pilon_pilon	99.9		True
+CONTIG	NODE_60_length_979_cov_261.420996_pilon_pilon_pilon_pilon	979	correct
+2287521	2288443	923	1	LT708304.1	NODE_61_length_923_cov_266.493088_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_61_length_923_cov_266.493088_pilon_pilon_pilon_pilon	923	correct
+2943837	2944745	1	909	LT708304.1	NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon	99.78		True
+CONTIG	NODE_62_length_909_cov_849.353630_pilon_pilon_pilon_pilon	909	correct
+3693069	3693965	1	897	LT708304.1	NODE_63_length_897_cov_146.484561_pilon_pilon_pilon_pilon	99.55		True
+CONTIG	NODE_63_length_897_cov_146.484561_pilon_pilon_pilon_pilon	897	correct
+909011	909899	1	889	LT708304.1	NODE_64_length_889_cov_269.326139_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_64_length_889_cov_269.326139_pilon_pilon_pilon_pilon	889	correct
+CONTIG	NODE_65_length_847_cov_1.709596_pilon_pilon_pilon_pilon	847	unaligned
+1278339	1279129	1	791	LT708304.1	NODE_66_length_791_cov_251.222826_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_66_length_791_cov_251.222826_pilon_pilon_pilon_pilon	791	correct
+3340335	3341114	780	1	LT708304.1	NODE_67_length_780_cov_187.266207_pilon_pilon_pilon_pilon	99.87		True
+CONTIG	NODE_67_length_780_cov_187.266207_pilon_pilon_pilon_pilon	780	correct
+3673280	3674033	754	1	LT708304.1	NODE_68_length_754_cov_263.464950_pilon_pilon_pilon_pilon	99.73		True
+CONTIG	NODE_68_length_754_cov_263.464950_pilon_pilon_pilon_pilon	754	correct
+3881260	3881987	719	1	LT708304.1	NODE_69_length_719_cov_107.980422_pilon_pilon_pilon_pilon	98.76		True
+CONTIG	NODE_69_length_719_cov_107.980422_pilon_pilon_pilon_pilon	719	correct
+3341626	3342338	1	713	LT708304.1	NODE_70_length_713_cov_125.284195_pilon_pilon_pilon_pilon	99.86		True
+CONTIG	NODE_70_length_713_cov_125.284195_pilon_pilon_pilon_pilon	713	correct
+2837722	2838422	701	1	LT708304.1	NODE_71_length_701_cov_126.517028_pilon_pilon_pilon_pilon	99.86		True
+CONTIG	NODE_71_length_701_cov_126.517028_pilon_pilon_pilon_pilon	701	correct
+3341060	3341680	1	621	LT708304.1	NODE_72_length_621_cov_267.376325_pilon_pilon_pilon_pilon	99.84		True
+CONTIG	NODE_72_length_621_cov_267.376325_pilon_pilon_pilon_pilon	621	correct
+2611483	2612095	616	1	LT708304.1	NODE_73_length_616_cov_257.335116_pilon_pilon_pilon_pilon	99.51		True
+CONTIG	NODE_73_length_616_cov_257.335116_pilon_pilon_pilon_pilon	616	correct
+3798725	3799329	605	1	LT708304.1	NODE_74_length_605_cov_237.776364_pilon_pilon_pilon_pilon	100.0		True
+CONTIG	NODE_74_length_605_cov_237.776364_pilon_pilon_pilon_pilon	605	correct
+3895869	3896474	1	600	LT708304.1	NODE_75_length_600_cov_94.682569_pilon_pilon_pilon_pilon	95.21		True
+CONTIG	NODE_75_length_600_cov_94.682569_pilon_pilon_pilon_pilon	600	correct
+CONTIG	NODE_76_length_575_cov_162.030769_pilon_pilon_pilon_pilon	575	unaligned
+3489372	3489945	574	1	LT708304.1	NODE_77_length_574_cov_1.974952_pilon_pilon_pilon_pilon	99.83		True
+CONTIG	NODE_77_length_574_cov_1.974952_pilon_pilon_pilon_pilon	574	correct
+3890220	3890796	568	1	LT708304.1	NODE_78_length_568_cov_419.452242_pilon_pilon_pilon_pilon	98.44		True
+CONTIG	NODE_78_length_568_cov_419.452242_pilon_pilon_pilon_pilon	568	correct
+CONTIG	NODE_79_length_538_cov_1.954451_pilon_pilon_pilon_pilon	538	unaligned
